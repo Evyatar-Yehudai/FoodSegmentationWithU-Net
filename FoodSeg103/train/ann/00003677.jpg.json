@@ -1,0 +1,97 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 256,
+        "width": 256
+    },
+    "objects": [
+        {
+            "id": 150534222,
+            "classId": 6539267,
+            "objectId": null,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2024-03-04T15:17:12.822Z",
+            "updatedAt": "2024-03-04T15:17:12.822Z",
+            "tags": [
+                {
+                    "id": 108061842,
+                    "tagId": 31482,
+                    "name": "meat",
+                    "value": null,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2024-03-04T15:17:12.822Z",
+                    "updatedAt": "2024-03-04T15:17:12.822Z"
+                }
+            ],
+            "classTitle": "steak",
+            "bitmap": {
+                "data": "eJwBfgGB/olQTkcNChoKAAAADUlIRFIAAADOAAAAVAEDAAAA8CyaogAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAEmSURBVHicvdVBbsMgEAVQEFKz5AjcpD4a3vVaPoqPwDILi+lAwWA8P40q1FlEMg9mJiQYpcQwuzzOYSkgWuiJiOjARPzpBdFMq3K0nc8X2phqL66VThS4l1LQEMWenkyx9pvyn9N4hS8DaSLtI+V1jnKSnijP/shTKKYxztJWUfy01MX6yLSQEF+YKJObTXY2Pf6RzGya3qGdTe5Pq2CL+ZR4THK9HxJzlmMnpTwUzPg7WUxSH0c78YCkFisJGSsJGc9X2wu6F3uHFkwOE3fvABkKGtJY7yR9jPvfaFfDebq86F+QfpdCT9c9XiFFBSlg2iAN+fofLWDaIN2uQw8XNbpfr5XWm2QC97EXui4hNtBIFiVsUAktfddGoEGNSxnYX/pz94/f4b0yhA4EfdMAAAAASUVORK5CYIKTGqF1",
+                "origin": [
+                    50,
+                    132
+                ]
+            }
+        },
+        {
+            "id": 150534225,
+            "classId": 6539291,
+            "objectId": null,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2024-03-04T15:17:12.825Z",
+            "updatedAt": "2024-03-04T15:17:12.825Z",
+            "tags": [
+                {
+                    "id": 108061845,
+                    "tagId": 31477,
+                    "name": "vegetable",
+                    "value": null,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2024-03-04T15:17:12.824Z",
+                    "updatedAt": "2024-03-04T15:17:12.824Z"
+                }
+            ],
+            "classTitle": "potato",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJAtIWIMzIDCQneayMBVJsAT4hrkD6////S2/OvwtkMZYE+QUzODy7kQbkpHu6OIZUzGm9eJDzgIKAy8WzmqlLpk5Jy5yWxCln2zFZop5DR+fjJzG3AHfr3LVtSQLNS3p42e0aOVwMQg/1sGqbvTnXWOU7Y2NC6bYDchZ1IQlb7K2O31++q/yJ/P572zJnnZV/zXzm2+5r3EJarg2yqR/ygFYyeLr6uaxzSmgCAFBiRLI=",
+                "origin": [
+                    0,
+                    124
+                ]
+            }
+        },
+        {
+            "id": 150534226,
+            "classId": 6539305,
+            "objectId": null,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2024-03-04T15:17:12.825Z",
+            "updatedAt": "2024-03-04T15:17:12.825Z",
+            "tags": [
+                {
+                    "id": 108061846,
+                    "tagId": 31477,
+                    "name": "vegetable",
+                    "value": null,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2024-03-04T15:17:12.825Z",
+                    "updatedAt": "2024-03-04T15:17:12.825Z"
+                }
+            ],
+            "classTitle": "carrot",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJAtIVQGzKyAwkN+TsVQZSbAE+Ia5A+v///0tvzr8LZDGWBPkFMzg8u5EG5Ez3dHEMqZhz9NJG3iMGHKwBi6xfevU/CDSKMopyS2yZoqe048i3ox/WTj4d8NPzXwBD4Drzn1yPZENvVoVdZRHb4Jsyu6Gq/c3jqmd63tumzPeZPC3K2+ho1r/SVaoPtB/saax8IDvnANO1idcbt7efnfs6b9bir3YFq1b/f754+2nv9wz/GtQLbJc9M1bo/mipePaayA+5V3xbfrLua69hrPwQGSkgOScd6EQGT1c/l3VOCU0AGLhlpA==",
+                "origin": [
+                    0,
+                    168
+                ]
+            }
+        }
+    ]
+}

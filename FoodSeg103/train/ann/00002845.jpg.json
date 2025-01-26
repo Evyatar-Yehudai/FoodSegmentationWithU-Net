@@ -1,0 +1,68 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 256,
+        "width": 256
+    },
+    "objects": [
+        {
+            "id": 150549359,
+            "classId": 6539267,
+            "objectId": null,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2024-03-04T15:22:33.748Z",
+            "updatedAt": "2024-03-04T15:22:33.748Z",
+            "tags": [
+                {
+                    "id": 108084679,
+                    "tagId": 31482,
+                    "name": "meat",
+                    "value": null,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2024-03-04T15:22:33.748Z",
+                    "updatedAt": "2024-03-04T15:22:33.748Z"
+                }
+            ],
+            "classTitle": "steak",
+            "bitmap": {
+                "data": "eJwBiwF0/olQTkcNChoKAAAADUlIRFIAAAB6AAAAmwEDAAAAl48dgAAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAEzSURBVHic7dYxTsUwDAbgRBkyhpGJXIEb9GjpDbhSJIZ3jXcDOgZR1TyShjh/KH5CD4kBb/7kxo6VoUp9hFMQUwSgc5+7Hu6XQAvLNb0SUeT1bxdIDTzlYC0LRIR2bCiQEDaEduqe04wQEWobXSEhrDuYCrWvrVDbNIgHFe4TFhGSCKsIqVv6V7AcwHQMZxGGT1aETQS6FsI3MIsQEcpl6Jch5sYMnnMNgxPCU14r8VgRNgTSM8Ap8hVe4iWyB1OGa2+9At9QAS+CE8GKYBA0ghogiDAheASHYDxAN2sGjcD7FDAIrGSHNm2FhwCg/qEH3NgPQN8AzB+BW9xFhiuWHESYRPAiOASLYBC0CGqAgOARLIJBUAMEBI9gEQyCGmBC8AgWwUCeT507eGS/XDnuzKLUOzP8k/boHLzPAAAAAElFTkSuQmCCa8+UCA==",
+                "origin": [
+                    134,
+                    0
+                ]
+            }
+        },
+        {
+            "id": 150549360,
+            "classId": 6539305,
+            "objectId": null,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2024-03-04T15:22:33.749Z",
+            "updatedAt": "2024-03-04T15:22:33.749Z",
+            "tags": [
+                {
+                    "id": 108084680,
+                    "tagId": 31477,
+                    "name": "vegetable",
+                    "value": null,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2024-03-04T15:22:33.749Z",
+                    "updatedAt": "2024-03-04T15:22:33.749Z"
+                }
+            ],
+            "classTitle": "carrot",
+            "bitmap": {
+                "data": "eJwBFALr/YlQTkcNChoKAAAADUlIRFIAAAClAAAAeQEDAAAAYhlzzQAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAG8SURBVHicjdZLboQwDAbgUBZ0VW5QblKOFo4WaQ7S9ASN1A0LhJtxbIjhZwSbwCeNHec1cS4/TXDg6ZfStlZp4rYLVhO3Q7RaQviDEieVn+z6DNzSXOtQtDtp4GY9auaxhK/0kdN7kn7zs2T9nXMXau3pm/QJle5PhDpDXaHuXetqDVAj1C1dW+sKlbAGqEm0MTpDXaFu6awGqAmqpvNGl5c6wq5hHWCHsfZWp1faWQ2v1A67TPMnVP8D9DDooi3U7qgB1CA6QB1hXH/UBHU+zzDJxJ10RaVdKKGCeTKwnoaBiwMaweBcaQJDxiXf1gUML5d8WwkMOj1Lvq/hPBX0LPm+pgtF2eYLHWGEAWoPewZmM9cG1kMeB7CiCK1JXn7+pAvaLbzYz11LcKlGuAXw1prQ5lzRYSTH5zFdRCetnlyS7q/8+x3OyUT8oidtr/H6Pdm2jbCG8qLaqvJLEm20R0adalMVobtAQk2qQ62KJfcq7aYNVKeVUv3vzelkvqtLSE/bfMddW9HO3DYc6Sow95VR1dxtJGBTh+XA/F1dTEpg/vYGc2DWL6tycXu32pqO7oERuhHqB9S3+uMfjpk9ifIpjW4AAAAASUVORK5CYIIYdvVm",
+                "origin": [
+                    84,
+                    125
+                ]
+            }
+        }
+    ]
+}

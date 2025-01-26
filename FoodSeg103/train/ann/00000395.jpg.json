@@ -1,0 +1,68 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 578,
+        "width": 746
+    },
+    "objects": [
+        {
+            "id": 150559298,
+            "classId": 6539269,
+            "objectId": null,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2024-03-04T15:26:17.115Z",
+            "updatedAt": "2024-03-04T15:26:17.115Z",
+            "tags": [
+                {
+                    "id": 108099667,
+                    "tagId": 31482,
+                    "name": "meat",
+                    "value": null,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2024-03-04T15:26:17.115Z",
+                    "updatedAt": "2024-03-04T15:26:17.115Z"
+                }
+            ],
+            "classTitle": "chicken duck",
+            "bitmap": {
+                "data": "eJwBeQGG/olQTkcNChoKAAAADUlIRFIAAAClAAAAVAEDAAAA2StlJQAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAEhSURBVHicldXLjcMgEAZgoj1wpARKcWmmNEqhBI4cLLMy5jGPn1V2bvmEPPNPYmLMKluNKl9rLRKP+lQSWt/i+OnKD9uuWfV66gLN5IMH1gia8QfbqTSIm0rbzWas3cIaQDOazhJdQziiawjSrN5TT6JzCNpsZbZME2i2hjiYFtRsKsO5H643GmzoD9eKxh27lBpBiKFeaPpDD6EZBN5pAYG7fqReKPBGbxT4XY/7h3qlAQR+9VQat6rwWaUKvNMMAjfVgffqoHqox7daROBiu7JToX0Wmt9vofDA/bdfWODxprE1rPeaBk5L3UR6D/mpESm7IWfggJRf3kMN0sz1REe7JqS3QRqRXhKbqqOPqn+fpkGrCtAVoIFHjQrQKiH8Bej39jCpT2AqAAAAAElFTkSuQmCCT0ykkQ==",
+                "origin": [
+                    54,
+                    111
+                ]
+            }
+        },
+        {
+            "id": 150559301,
+            "classId": 6539308,
+            "objectId": null,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2024-03-04T15:26:17.116Z",
+            "updatedAt": "2024-03-04T15:26:17.116Z",
+            "tags": [
+                {
+                    "id": 108099670,
+                    "tagId": 31477,
+                    "name": "vegetable",
+                    "value": null,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2024-03-04T15:26:17.116Z",
+                    "updatedAt": "2024-03-04T15:26:17.116Z"
+                }
+            ],
+            "classTitle": "broccoli",
+            "bitmap": {
+                "data": "eJwBmARn+4lQTkcNChoKAAAADUlIRFIAAAGNAAABcgEDAAAAM60UXgAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAARASURBVHic7dxNjpswFAdwRywyi0redlHJR/FVepBK5mi+Qa/ArluWkYpwkwAGwuP5/Q3DZKbxqlL5JbwPP5gwGaXYVZxDKPlDFiSEUGHk+ibhgpMWJ2AwOsDB3AkWzJ00OAkQMXfiEWLvpEbIXUDBFB1BgjE98XLielKJxakXQDGHUID4zwMRxG+7Y3QkZZJcj/mmxoQJUnYNuwxqqL0oZdcYft9e2EVSp8iwsaJIp8z0LzyS5P43fflGkszysBcnpJSQdkZ8gnRVH1ssnbLzn+5cpiTRmPrvkiSy3LeWn5JElg1BElkmiWeJpUiFEz5lLiwzlkjZQJScBIrwWY7ESckpEistTAYZZ7eZklJEtJScIzlPid+X6EiKKalE74KSVs02P7v7i90I1/2nSNScuNXaTK7c4WGt7YCB+CVZS9t5/O8FWdkCekyRWxg6moE0FKHPzIwnsSR0qgcS1HyPMcHE40qC0MHE4/wyYyvBRFIXBCGDieSiCUIGE0lDhEIHEw9sKUFuaPK1x0XFb56B1B9G9CHkjJMTT8i+dDgxT0Co8BNZflpSUYQv/17E7U38ToQVB5GSIpYllODDJyc/v5HJuwXqQjQucofx/VLj71LhsZCEz5gnicWJOYTgJ6Y5QZLE4KeIgwlf+71I4rKXQ8qPIvoZyU+VvOmZkzd1mx4WId+LtgipFpuTX7f8NhBJHPsiT038pyDuWYn9QsR8IaJFpPoUJHXJ+zCSuq/YhyTuqnYisqm0mbjnIfWLbCISsZnIOvmykch2ZQZpNhLZUMogs5/39SHEiEg4nlgZKbcR927ED8e/4eQHTBorJlUnisdnoGmib++HndjtaIzcB0XyZ71+dXW5b65GJnqib/+kn4Ms16SHhaSdNCRGnPCcbqufMIDoiWwY9+uSS2STtV/1WEmMaIRUyDSaEosThxNEdNsFKkvX+1BZWrwsl9yyQETBlWwUXMka35Me35MlvsHiCH9P0k8kpPhNNtH4iWUQA5CMFgt4i/XVzyAOIT6XICJnilX4FKszCbRdujGWQaBZ2XV/BtEQaTOJOYTYL0Tci7zIi3x+AokXOYI0L/Ifk8txxOHEHkIMRGr8rq/Cb0c9fp9cZhLsnl8ptPwZH8FNP+gTrozPIfpnHAYnGiB1R5DyVx1BaplBfEeQ8pcKLv9ArJz0AihMfPaicSJP2fjoyUnJ+BhNXP/Jk7cQrIjUIzFeRio1We9GPE5KnEyFrDTtIaQ5hFwOIfUhpNpKrIT4rcRISDkjGieSiTGPXkIeRHL8qeVKXDGoX6/PIImLDPkb+Q4nliX898rkxLCkpojem1QU4TvGU4SvZQYpKcKXP4OQgu8YmlhGrHzdM4MYhqx8d1XvS1a+i8t1zH6EG0srhGuy/QjXZDsShxN7CDGHEI0Tpsl2JExfViuEabISJut/uAE+L4asndd6Xz6e1z/AfsZHNmWHqgAAAABJRU5ErkJggll2I0U=",
+                "origin": [
+                    311,
+                    174
+                ]
+            }
+        }
+    ]
+}

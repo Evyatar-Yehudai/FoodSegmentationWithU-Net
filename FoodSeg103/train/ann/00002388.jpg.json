@@ -1,0 +1,39 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 256,
+        "width": 256
+    },
+    "objects": [
+        {
+            "id": 150527108,
+            "classId": 6539269,
+            "objectId": null,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2024-03-04T15:14:29.114Z",
+            "updatedAt": "2024-03-04T15:14:29.114Z",
+            "tags": [
+                {
+                    "id": 108050862,
+                    "tagId": 31482,
+                    "name": "meat",
+                    "value": null,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2024-03-04T15:14:29.114Z",
+                    "updatedAt": "2024-03-04T15:14:29.114Z"
+                }
+            ],
+            "classTitle": "chicken duck",
+            "bitmap": {
+                "data": "eJwB5wEY/olQTkcNChoKAAAADUlIRFIAAAB8AAAArgEDAAAAzib72QAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAGPSURBVHicvdZRboQgEAZgCA88cgSOwtEw7cM+9kg16QF6hHoEH7eJ3amwrs786s5uasoDyXyJMDCgGrM0S60RLSBk6kTsiHoBkegsgIguPLYjEAdfoBGTjo3PGwvweXMBPk2JaYBJONRJeCIBISHQtc2xQwgTNHIIBgTgESJCBrAE4BEiwjzEtIfLEBN4hIRAAB4hImQG3QHQQxqHgQVIBJARRDxmahGchFZsF5W6ACxHZx+iAg1kfgi0sPoHoFOhV2HjEXoWun+B9nloEPBEreByB75qPyzw9l768wKnz9Kzg3z6AHhtItUrN0M9wgxejP2pF/sG46vlu/YMDPmtd94f4BbPZ30fwrwzezDduUGF5TsyXeR+H6a73yHMS7nVwQDwT2BWIclENyCqEFTwKjgEi5kaHTJCQogIQQWP4BAsgoG6XDO7D0nW9pqqgHAA+IegRehU6FU4I/Bq101dwf1dXv3eORVWtdyEAUGk7nBxDnfMYm0t/roaeKJAIyEjJDnmeEAuAAHBDwCOreQXhlKzvBl01GcAAAAASUVORK5CYIKOXsZ3",
+                "origin": [
+                    7,
+                    25
+                ]
+            }
+        }
+    ]
+}

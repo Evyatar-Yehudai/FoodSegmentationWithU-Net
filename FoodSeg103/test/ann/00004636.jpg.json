@@ -1,0 +1,68 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 256,
+        "width": 256
+    },
+    "objects": [
+        {
+            "id": 150569015,
+            "classId": 6539291,
+            "objectId": null,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2024-03-04T15:29:30.284Z",
+            "updatedAt": "2024-03-04T15:29:30.284Z",
+            "tags": [
+                {
+                    "id": 108112209,
+                    "tagId": 31477,
+                    "name": "vegetable",
+                    "value": null,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2024-03-04T15:29:30.284Z",
+                    "updatedAt": "2024-03-04T15:29:30.284Z"
+                }
+            ],
+            "classTitle": "potato",
+            "bitmap": {
+                "data": "eJwBPQHC/olQTkcNChoKAAAADUlIRFIAAACBAAAAMwEDAAAAimz5bQAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAADlSURBVHicjdNRCsMgDADQdIXtsxcYeIUdYMyjzZvsKh6lu4GfDqSZicpM9GOBlvKoibEpQA1MIGNTgjkODUIMC8JVvoK4oKtwqfLCUMViiyQXcSqOtRMv0lCEuttfJJW4JXr24lWpkmgVklSp0q4UVMWn4mZipPg/ZFdtzSSoRmcSVeszScMqJR8+jr76m6Xfs0M6jl4ohZBjkFSk+xYROA88LEZbe0I+xFw/lhf3JgbDMggAmW+y0cFRGZdvRxmgmo048pDxHG3GkfC4XOr08VJ+PJcJPZHoHwjsPojTctcAt3x9AbugHMwYecoVAAAAAElFTkSuQmCCO6yCmw==",
+                "origin": [
+                    68,
+                    22
+                ]
+            }
+        },
+        {
+            "id": 150569016,
+            "classId": 6539308,
+            "objectId": null,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2024-03-04T15:29:30.284Z",
+            "updatedAt": "2024-03-04T15:29:30.284Z",
+            "tags": [
+                {
+                    "id": 108112210,
+                    "tagId": 31477,
+                    "name": "vegetable",
+                    "value": null,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2024-03-04T15:29:30.284Z",
+                    "updatedAt": "2024-03-04T15:29:30.284Z"
+                }
+            ],
+            "classTitle": "broccoli",
+            "bitmap": {
+                "data": "eJwBMAHP/olQTkcNChoKAAAADUlIRFIAAABYAAAAYwEDAAAAJeZVGQAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAADYSURBVHicrdRBDoMgEAXQb1y4acIRuEYXTTwaHI2kF/EILFkQqSI4vzVYm3RWTzN8wAjAVg/U0kPcnRJ7rhzovSJr8kj9hpyWmjZ2qz052ew+O9zLVPmhxK8Va0xxV7xMoZ7iMdXCzYiFCUJP7Y6HiueGIyQnNOwh87In6nHv3vMtGeJI9pBMJw4Q+4anC3YXbBvGd8/1fzlx/NHhYEOmz/Bnh1PzGnhtityTwR7JumH1aX+0bph7BjKfUj69eTfV6+IcJNRCggrzzqr5NlkGyC3Tk2G2rbwAmsd0K/joNM8AAAAASUVORK5CYIJq6YJB",
+                "origin": [
+                    1,
+                    48
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 384,
+        "width": 512
+    },
+    "objects": [
+        {
+            "id": 150566978,
+            "classId": 6539273,
+            "objectId": null,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2024-03-04T15:28:57.878Z",
+            "updatedAt": "2024-03-04T15:28:57.878Z",
+            "tags": [
+                {
+                    "id": 108109259,
+                    "tagId": 31487,
+                    "name": "sauce",
+                    "value": null,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2024-03-04T15:28:57.878Z",
+                    "updatedAt": "2024-03-04T15:28:57.878Z"
+                }
+            ],
+            "classTitle": "sauce",
+            "bitmap": {
+                "data": "eJwBZgGZ/olQTkcNChoKAAAADUlIRFIAAACzAAAAUAEDAAAAaArWnAAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAEOSURBVHicndQ9DoMwDAXgUIaOHIGjcK1u+Gg5SrauGRkiKMH8mPg5ausJfYrwSxxwbq12KSo4Bz2yP0tPhs/sXelL3XvlVPXha/dVH5WHqiuue2O4OuY9j47JrrnqoO1fDmKaTn94B9zYVjKWR7w8HzPqmtui18zwrnFb5BEPazsd5ATvFH8twJPh8cfLQNhn485OhkfDveEOezI8GM6sziGWHvj+kvLtce8q5hK2kQbg7dVVzD3kNZN2n/9//vROeHN2Ff/I7OHyRroTJfxWo+GD4Z3hRyAq/HhRybzj96x8a0Av5bmBXs1f5ATcianeahRjKoIS8h6E56AoTg6aoDc45hoIxlkbeOwPUvQBlvd6vEQWGq0AAAAASUVORK5CYII9QaMB",
+                "origin": [
+                    291,
+                    0
+                ]
+            }
+        },
+        {
+            "id": 150566979,
+            "classId": 6539279,
+            "objectId": null,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2024-03-04T15:28:57.879Z",
+            "updatedAt": "2024-03-04T15:28:57.879Z",
+            "tags": [
+                {
+                    "id": 108109260,
+                    "tagId": 31479,
+                    "name": "main",
+                    "value": null,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2024-03-04T15:28:57.879Z",
+                    "updatedAt": "2024-03-04T15:28:57.879Z"
+                }
+            ],
+            "classTitle": "bread",
+            "bitmap": {
+                "data": "eJwB6wEU/olQTkcNChoKAAAADUlIRFIAAAEjAAAAvgEDAAAARGH7RwAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAGTSURBVHic7dc7boQwEAbgWVFsyRHocg0uFgnnZj6Ko72ASwqEE17O4sd4il8EJKbZgk87v8dmYckJyhBO6UsrBVSEU+OttkIq5G6LzpdsjT1Q2ZMqA1QaqBRQkUSNItWLlL3Vvylzq6VeQPUNVNM2nlGZw5U+XKnDFR2txkur4dKqFykjUhqoFFARTo0iNQBVD1QWqMwl1ZdIqU6kWomiZvnUCFWL1FOkKona/sCVVCtQeo1fUtX6nZwy6xUqqc75Gy2nfs974/wtxKja+ZuD6Vg5fyTya6SH84Ng1HSJeDXNqfVL5L6r9uE59fCxmDUSfZBEUUlZoOqBagCqEagcUqmTKn1SZYDKAlUvUsPhSpZrr7qMskClRWqH1gdcIXxO7Rtuz3q+YUYFPznbGwEfK6OCWNt7A99we2/Yl5GoMUTzUzAsG6nUFsUoMbBwDOlFqoSKgkVjSAbTSRUES6WKgsWzSgVLRZ+rfUMmh95bpte3FDt1X025H/2dC64f+cEqXi3rZPvN9Sz2myu3f0F9Mtd+AG9XhHbBQKc6AAAAAElFTkSuQmCCOFXV/w==",
+                "origin": [
+                    0,
+                    0
+                ]
+            }
+        }
+    ]
+}

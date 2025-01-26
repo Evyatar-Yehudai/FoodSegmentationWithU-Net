@@ -1,0 +1,39 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1365
+    },
+    "objects": [
+        {
+            "id": 150564999,
+            "classId": 6539291,
+            "objectId": null,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2024-03-04T15:28:13.866Z",
+            "updatedAt": "2024-03-04T15:28:13.866Z",
+            "tags": [
+                {
+                    "id": 108106824,
+                    "tagId": 31477,
+                    "name": "vegetable",
+                    "value": null,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2024-03-04T15:28:13.866Z",
+                    "updatedAt": "2024-03-04T15:28:13.866Z"
+                }
+            ],
+            "classTitle": "potato",
+            "bitmap": {
+                "data": "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",
+                "origin": [
+                    711,
+                    196
+                ]
+            }
+        }
+    ]
+}

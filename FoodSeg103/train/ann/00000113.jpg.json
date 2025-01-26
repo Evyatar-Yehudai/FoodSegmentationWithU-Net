@@ -1,0 +1,68 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 384,
+        "width": 512
+    },
+    "objects": [
+        {
+            "id": 150546012,
+            "classId": 6539279,
+            "objectId": null,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2024-03-04T15:21:25.510Z",
+            "updatedAt": "2024-03-04T15:21:25.510Z",
+            "tags": [
+                {
+                    "id": 108079466,
+                    "tagId": 31479,
+                    "name": "main",
+                    "value": null,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2024-03-04T15:21:25.510Z",
+                    "updatedAt": "2024-03-04T15:21:25.510Z"
+                }
+            ],
+            "classTitle": "bread",
+            "bitmap": {
+                "data": "eJwBXAOj/IlQTkcNChoKAAAADUlIRFIAAAESAAAA4AEDAAAA9dR7xgAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAMESURBVHiczdnLkdsgGABgeXTQUakg2h5yX1JSKojYykIB6SGUwMxedNCI2JJBPP6XHcYTTmvvZ/gfWC93XTXG+q1qTJY3s+ONl5hl1KzxflGGieeK/GuM8rzxvOkPoykzHIZcahTMczeWMtNhFoGhAnpXnk1+/uXZgHwYREDRrCgZosGDnk6j2aXwoPvEOOD/XzMBB/2eBnwdG2QuPh9A0D/nwpjalAQIulwJ6sZQmTqxqTJVYn1F6o4pwGh+mtKMAgMtVXYeNEWBZsjkyYMhF8mD0xRBwyTvvMDUPa8NEk5aICSrzGDTJDsRiybdZehSSaHrXRpHNBNuYqGVwMy4iUXESSwQnvq5y/DUz+SJ1GPy4yuMFsQjMUZuyHgk5mhG/4cyjts9PjRM/bNZBWbjdqHQeInRjYwRGNvIOIFZpEbRZhWYjd8/IuMlRjcy5oXGNjJOYJZGZhWYTWC80CjOaJmZWxhDnuH+WzNzxsqMEpixkWkSjxPsMSeIxzGn5buhLluCoS5/gmGbuvAH8d2oRmZqZEaB4Qp9M73/EBi6RDdz2ejl9jPhQvdsN9/pnu1n5jeB+UL39bgko3sWzCgw1IYNhko+GCqgaIaJN0T6yR0o2rPEoGGnt/GYSe9k0YBaGX0a1dS4eg9UxtSFSswckuDMBiSYmP01dNAyRb+swBiB0UChSgMV8zGzf30+IXPmPoW0qgPkaVScFjcTas4yj/Ejhfk8TR8/Uhh3mlvuK2TsaW4tAO/sCuMExgqMgYxJjEeMzo1mzCWUpzRdZjbIpIeNa51/x+BxYyCzCkz6QO6CGJeYbgkVzY1NzY9vJhYKM2/hj9yYDhpoCTEDP/LOj1Hwo/PcWNDk5zvNG+hBdVecgJCn9JlBnvaPjxoHm+lRY5836lFjnjdZPPp5k9UQJnm/ENMLzEVgukcNklf2XcbMJDBJ8siWz5I3mDmTJ37fikHjJO4OdKUuJob/StbJfkY8kncUuRuSHAWipzkKRJO985YzMz/N1TDR7Eux03SDyV7+BUDejKQqK/9yAAAAAElFTkSuQmCCeZiTIA==",
+                "origin": [
+                    199,
+                    19
+                ]
+            }
+        },
+        {
+            "id": 150546015,
+            "classId": 6539308,
+            "objectId": null,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2024-03-04T15:21:25.513Z",
+            "updatedAt": "2024-03-04T15:21:25.513Z",
+            "tags": [
+                {
+                    "id": 108079469,
+                    "tagId": 31477,
+                    "name": "vegetable",
+                    "value": null,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2024-03-04T15:21:25.513Z",
+                    "updatedAt": "2024-03-04T15:21:25.513Z"
+                }
+            ],
+            "classTitle": "broccoli",
+            "bitmap": {
+                "data": "eJwBnAJj/YlQTkcNChoKAAAADUlIRFIAAADeAAAAlAEDAAAAxmoF/gAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAJESURBVHicxdcxjp0wEAZgIwq6ODfwFVKmiOIr5QCR8FYpcyXvnoQjkO4ViMnAw2CPf4/QrqJQvMKfGM+MB/Qwpr6+gLV0dbOGDwX7RcNVQ2rSV8bQwpUxGlxPR0/sUFYcs6epkfJAsafZGLvaGeDUE3fBE9VoN+RCiahulKe5py0phLzGEC1jlVLHa4wPNqq6yLBuIVtILwdWLR547TVhqCrJMAp0Gvp8T4kjJ9klnKoeZDhXPdibALEvUDTXajhuOGB0e0ttwqW6kaiBz7XfOCyVV4Gdhr2Gg4ZOQy8wvjfZSUs2ahgULGda4KKh2vZZw0nDqKFWSfkAWg29hqO2JykoD6xAmWyxp0y2QCfsTamkPE2B6AlD6FdZZoZEvwRec1DVmOOoYNW5HK2GTkOw5YXATkT5nChfBQWifM72eQ2RpfO0GsKoB8JCEspCFg2nMUOZT2zgn33RZ+guDHYr3jWwW7inFoc15ocPR4YAzac0igjPrkgsDkLinI+UxCk/X4kxn4xF9DbkM9XCPaOHCJtsj/so23e9BeyZ+onXEznUOJ/Y30Nbo6lxutCnDAaAvYZd1aEMzc+jJSfGDHlXDWOJIUcXy1JyM0OJ8C94QvjnPSH82+/+DXot24Twm+DECHAEk1AjyigZbNE9RLX8Dxw/jqjOezhrGADemgQ4t7cQhnV3EH6u2v22AU/f/r6PXO6Ebn2GtK3nwS9bgMbX9faN2uE7+QWwbQcbb463A06I9wv8MwaMz7wUM981/KbhZ7D2FzRCBcoTllxdAAAAAElFTkSuQmCCuVAu3w==",
+                "origin": [
+                    11,
+                    29
+                ]
+            }
+        }
+    ]
+}

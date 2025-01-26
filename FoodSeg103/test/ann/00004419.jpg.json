@@ -1,0 +1,68 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 386,
+        "width": 512
+    },
+    "objects": [
+        {
+            "id": 150569533,
+            "classId": 6539269,
+            "objectId": null,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2024-03-04T15:29:43.960Z",
+            "updatedAt": "2024-03-04T15:29:43.960Z",
+            "tags": [
+                {
+                    "id": 108112727,
+                    "tagId": 31482,
+                    "name": "meat",
+                    "value": null,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2024-03-04T15:29:43.960Z",
+                    "updatedAt": "2024-03-04T15:29:43.960Z"
+                }
+            ],
+            "classTitle": "chicken duck",
+            "bitmap": {
+                "data": "eJwBuQJG/YlQTkcNChoKAAAADUlIRFIAAADhAAAA0QEDAAAAAAdHlAAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAJhSURBVHicxdjRjdwgEAZgVifFb3EJTgl5zEMkUspdJVBBaqIUoisgfkSKxQTbaxuzM7/JOdbytvoWGGYA71qpqX1SqLUWaeeQaqweqelh3wDwhx6AvmoaBxCG95q8PHyviawy/PC30BH5Gwk6JB0aIm7o7000RJS+ERlNky7Npo/f9mo2TZGrKGqSFxKVetUWmmGKutC3XIekNsMX2muXa0P7ljRIXdOKdZ7QW6EOqjd5Pktd8smsdolMfQX6U61hG4a3RWmo3b/rAEdelcMtIaxSXV8DlY2Z6rRl1VZpubHm5k6oh9pDDVAHqEsqW1bpWWpRzEs6BL0vuDzeVRqhUo22UDtB5wVrQecKG0Ej1HlrSTjlg7uvNhXSfFctanySEkrGlWphVFYufk1fMK8D5T3QPw6NHLC+ohWFL2hfBbhjAzoLNSqGVaHtxzSCG4nm0y+rQyNPB1jW/lDlea9V6Z48r/K84fDCkjVCJZjn8YhepzgqrHImCV79BB8b8fChIms4oT1U/KhzUC28krDiB/CJh/d5lYKaVK7+scr76ljPzHtQQazmhOrL+oqqPq7xMh1OaLhMe3gWsPoKFfA/qPkF1WukDmnnOqA3i1T6mbRoy6qr0jN/n/mLZVH+6liUL/GqHdT2ScqmA6tdlE0WVLU2JpXgBRhtLynGBiJmNcPHIg2lxnzV+bTT7TDkCXWlhjxlOU7l77Ok7N+utoX2D+o3vfmdNpM2bM85HW5VV2qbqy1VjYu46/ujju0elWdxKaSgCqsJRL9F1d7Qu6iNM+SMFXQslvssYlK551jK/NNfdEbfwbSUdY8AAAAASUVORK5CYIIzOEJF",
+                "origin": [
+                    197,
+                    106
+                ]
+            }
+        },
+        {
+            "id": 150569536,
+            "classId": 6539308,
+            "objectId": null,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2024-03-04T15:29:43.962Z",
+            "updatedAt": "2024-03-04T15:29:43.962Z",
+            "tags": [
+                {
+                    "id": 108112730,
+                    "tagId": 31477,
+                    "name": "vegetable",
+                    "value": null,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2024-03-04T15:29:43.962Z",
+                    "updatedAt": "2024-03-04T15:29:43.962Z"
+                }
+            ],
+            "classTitle": "broccoli",
+            "bitmap": {
+                "data": "eJwBbgOR/IlQTkcNChoKAAAADUlIRFIAAADLAAABGgEDAAAAhSAxTgAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAMWSURBVHic7dldbtwgEAdwnJXilyo+Aleo1PfSo/QglaAn6BFyFY7iqhdAyouruqbGX8sM/B1Ctnmoyssq/q1hGAbWioVImjTpta0pD035oYKkH/FdiJT3HpCeyeZpFu+y0gTKD3YJ5PsctVXUeTjYCcmFJkzZBCvc4QlpPNZK2dyvksn9fbORS+jhslEah2w3SuOQ3zZK45C7pHGoEuo56SryeKwqajwcKyLH6PJa4jXVYIqC52sZdcjXsr0SX8sOU1vUIY/whOCUv7yPpkzn5V1EJMLGDxdArR9lRCYi6ScNSHnSbBnpKvKQGkwdJskompfCdHLXCfEwImoZlQXPqS8iPlYdheB1n828CBXr1ts0kWlJ0JCjcbkC6ShvSgMmtwSWJbtsqXVvfkgCPCiNvd0+LKSuj4bZqFtzIp+uZPSejP2D0HglFVH4YxTH40VEj5Cmbied0EO4NuTI34ed1ot1wxlCd+GaPehdlAvTrN/e6GM8rcs6xkKW5HbP3UJ9QkOeTLvVZ/jDkYPBXrbNFb5PDjvfxzSSog4H5kH+MaZBbPtOed7GucpqSKxjyYTm6WpMSkC6X6hLyYo7QL/2DZ7Ssff5xi+jS0oWk3me+CFzTuJ54j8l5+R20i+hPRuZChgKSOKxOA3ioI6REZ8xHY2vpYA0QbKRsLU8IRNTU0V0wcTfJQ1yUU0qovEWJF9NLMKuitoqIsVRTKQ4DCZLb4vJYTpZS9YjoR6TKyWFOyRkb02miojcoKRGTAMmR6nFHRZSefnWzUtC+hRnl86rj4n29x2S/A1JeUj6BmQKSWGiD+s2JvpL5DBNmEhJSUwak78FjZgmTHGq+INUlCr+SGQwxQnGd/FMvZ66KmpLiVQAyRTdeiQd7LTRETlK6ipPhpKEN20T+5mjOcR50y5buk/Jaf8VkN3mkCEBqFlykCXxw0Dau60l+1Jq35C6KpK8CK9NYUpKt4SaN6dsgG9P2QjrcvjPkq4n+5/Wpp4hAyn7lmo9HMDLw0DgbWSgPk8dDHD/9yMg9AqzhUPNxzKYVdiWjl74A+7Yxaoy4SEOAAAAAElFTkSuQmCCHrSc3w==",
+                "origin": [
+                    8,
+                    94
+                ]
+            }
+        }
+    ]
+}

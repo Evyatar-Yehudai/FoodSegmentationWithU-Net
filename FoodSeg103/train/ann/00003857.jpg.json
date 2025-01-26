@@ -1,0 +1,68 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 340,
+        "width": 512
+    },
+    "objects": [
+        {
+            "id": 150543911,
+            "classId": 6539269,
+            "objectId": null,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2024-03-04T15:20:23.470Z",
+            "updatedAt": "2024-03-04T15:20:23.470Z",
+            "tags": [
+                {
+                    "id": 108076606,
+                    "tagId": 31482,
+                    "name": "meat",
+                    "value": null,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2024-03-04T15:20:23.469Z",
+                    "updatedAt": "2024-03-04T15:20:23.469Z"
+                }
+            ],
+            "classTitle": "chicken duck",
+            "bitmap": {
+                "data": "eJwBUQKu/YlQTkcNChoKAAAADUlIRFIAAAEjAAAAbAEDAAAAG5dGYwAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAH5SURBVHictdZLsqsgEAbgtjxVDl1Czk5cGiyNpbAEhgwocxQj/k1o6MG9jCL1QT8gMfRWDE8a5VTKatROgprwIRGZFgpscRQUT8S3VZWIa6sqhG2rQLSxnfERQ8D0sTOtDUUsxBGQ5m90huBbtdq6s7Uuq+/Ejl4vLHwzsYST6VJLX8WOepUHf6nvIiMqe6npSwVU9BldtYvKQ3vSrUyt8A7EW20VSrjSSypgRU5SDntob/WqFDs1ElRi2xdVNd+zsouqGuYExdNn63ZBRXa0oAwqq1GJ1yOooFdP69Oj3v9JRX5mj6p/HbF/HWWGKvIMoqjmpportYxV0Kp1rBxXoagFKn8Tj/ioH1BRVFTNovJN5SvlRIXZU1M5rpJKxbayxH4RvKy2ZvKTrEhWppk8Kp5AVKmAKhlUsMihckWdX3i4SJZwlKrOdJehqi4OQ0+3+et+F1ToqVWlSioONxYV9dTdoqRSgbWlVtM/VITKjFTsKwM1ympTqRWmZXU3rK9IpzaVWp9puaufxPL0S1ZXnEGNeQc7uDlnyON0NvmljftVf3PbanHEimyrJ0WFWlVqUalSZOqpKX0KiD11jnwAYaRynX6kcgVupPI31I5UTmyIzsS6jShq2Ih8TGGsZkWJuUg7VschKRCt3Rtxj1nRiGMoGnGMX/j8B8CuaaIK3dqAAAAAAElFTkSuQmCCuaAKGg==",
+                "origin": [
+                    18,
+                    0
+                ]
+            }
+        },
+        {
+            "id": 150543914,
+            "classId": 6539305,
+            "objectId": null,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2024-03-04T15:20:23.477Z",
+            "updatedAt": "2024-03-04T15:20:23.477Z",
+            "tags": [
+                {
+                    "id": 108076609,
+                    "tagId": 31477,
+                    "name": "vegetable",
+                    "value": null,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2024-03-04T15:20:23.477Z",
+                    "updatedAt": "2024-03-04T15:20:23.477Z"
+                }
+            ],
+            "classTitle": "carrot",
+            "bitmap": {
+                "data": "eJwBrwNQ/IlQTkcNChoKAAAADUlIRFIAAAFBAAAA/AEDAAAA0+OEbQAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAANXSURBVHic7doxjp0wEAZgEwqaSL5BuEgkXyXHSIe7XIujWEqRMkhpKBDOAjbYjxnPz27Q25Xicv09P2bGNqwfSp2bdsQfqaa97zHZ+hc6ItL4pc2A7FbpgVF9aCKsohwkWUcpXmkTpXeC1LuUYjKw7GDpUVnD8ghdSqhGZOvUNpNEuZbaALJe5ZEkPqJmkdUB+cI3S1cSuveWkXqRbSq5C22XQUwqJ16OaUCenfbLcFUGudW8DPcnl8ygnT83elAC0tFXlCSTX1OS/PqGlFTtNSmp6BnpzrKlJVFRRhITyjBygOU5pR0jzyll5SmlHDxFT5adlHTZ3ybpCUJJ/c/lN7bsj/n8XpBDXqCCdLl0BpUjL/tM+pmXNpeFpj6IxCPCZZZPfmn4hxoV5eBQmU2mspyeKuebJb+BrO2jSPsayW+JF2X/VOlW9AWWbQ9LJ8thkyMqzQTLZZ5qSHpZjkH2sHSwHES5LfjugpwKzyC59K4tw7DgheFuk9syRuCTpYUjslvdUdkicl3wGpbCEkqksCEmsnzbCM3BCXUKTVPYbgC5LXgNyBHZOxOJpGmTSJrCYy0gw7NAh0rk2yc4ohnO5wzX6A7pnyvxZXxxwePSINLdIIcb5HiDnG6QM1yjGd6UPbwpe3hTvnDvujiZNCyh4Ec4pAm+z+wPQmK7ujNpWEL1hPdvD989gjSAtGLwvzNZquePTBaCn6tMFoIfVSYL9XSxz0rB7yfMG+TrOce++J85G/wY+4Yg2ZBcTEwfJFtPG0eJkAt+jn3HAULLXuaSmF/J+Rojh63PJecshg1oSZPVtiSnLsh6VNUhiYjmNj53HiyXP6NsyFPvRLooK/LHieRb+3jNLx8XpI5SU8fjbSLjCnipOCGTKdIfs5w88deU/EpJRcnPpNwHtWr/CN1qWFZvkI6RCpcdLE0sjSjbRzlwUsOygWUNywqW6lHyP292sDSw3BI6A1LHflE2sYai3DdfUe6bryhXMUGyC92yNFtAgFwSaiGpt4AA2YS7iSzr0CvLKqwyWaqwXQOyy45yStJMqGwHVIZXSADZWFR+UqnsC1KlEn+VhPtJ/SyRN1neg8QjwrN04dUcXNr/8t1LGX4wececv2O3ee6+NNwg3Q2yv0HaV8u/d01djKUjFZUAAAAASUVORK5CYIJi47ry",
+                "origin": [
+                    94,
+                    88
+                ]
+            }
+        }
+    ]
+}

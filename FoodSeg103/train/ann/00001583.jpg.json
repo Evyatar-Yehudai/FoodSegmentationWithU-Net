@@ -1,0 +1,68 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 256,
+        "width": 256
+    },
+    "objects": [
+        {
+            "id": 150549406,
+            "classId": 6539279,
+            "objectId": null,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2024-03-04T15:22:33.754Z",
+            "updatedAt": "2024-03-04T15:22:33.754Z",
+            "tags": [
+                {
+                    "id": 108084726,
+                    "tagId": 31479,
+                    "name": "main",
+                    "value": null,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2024-03-04T15:22:33.754Z",
+                    "updatedAt": "2024-03-04T15:22:33.754Z"
+                }
+            ],
+            "classTitle": "bread",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJAtJSQKzHyAwkefJnmwEptgCfEFcg/f///6U3598FshhLgvyCGRye3UgDckI9XRxDKuZMPb+R94CCALPDYn2N+paeT4sPZki2Cho5TOn3dXRfYqK+c2MOw1eWgg6B3IlLdHx2cEw80tIt8NPztiF3mvzneCXr4+rXfynnBeknNYvcdTjOHeaQel/lBR/IYQyern4u65wSmgAHQTkO",
+                "origin": [
+                    230,
+                    32
+                ]
+            }
+        },
+        {
+            "id": 150549408,
+            "classId": 6539308,
+            "objectId": null,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2024-03-04T15:22:33.755Z",
+            "updatedAt": "2024-03-04T15:22:33.755Z",
+            "tags": [
+                {
+                    "id": 108084728,
+                    "tagId": 31477,
+                    "name": "vegetable",
+                    "value": null,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2024-03-04T15:22:33.755Z",
+                    "updatedAt": "2024-03-04T15:22:33.755Z"
+                }
+            ],
+            "classTitle": "broccoli",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJAtLLgLiNkRlI5r5KZgJSbAE+Ia5A+v///0tvzr8LZDGWBPkFMzg8u5EGZJt4ujiGVMw5e9kx67CBQOtDQa0zyxZwiyxj13yRcerirdkSVYzvJ7V2Ri/ZMm3pfUZHsYufDu+ZqZ448f7j638jnxiuWpHoYPlQcsp30ysds9hKVEtXvA0WyfWGozuXW24lXVvnAkZHGuetuFW64MPTiOTVxq9arhskPvTniuD//W3+ORPt49+qfgjsfZZWvNvlWl73bLaQfq01vx+c9uUNDbRd5Zyb51HQuf/qt7fv+oWvtWSt6HoV2Gq6SCtLduMJbpeYp1OVnvQqPXkcf3jZ8tZntaG7zv5eVzK7fN2WqsteqzuiRK8uzBO05gVqCgBqklq1iCvbhXeFXGiEcpZDaEh71L8JfkBbZLP43l0NAKoFypqGuH5dcWhWAK/pgl+MpSsmBfCGzg9PD7JfwBeqduW7vG/75p4dLTyPgIHJ4Onq57LOKaEJAJxysJU=",
+                "origin": [
+                    90,
+                    0
+                ]
+            }
+        }
+    ]
+}

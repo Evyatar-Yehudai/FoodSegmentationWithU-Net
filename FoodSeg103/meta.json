@@ -1,0 +1,974 @@
+{
+    "classes": [
+        {
+            "title": "almond",
+            "shape": "bitmap",
+            "color": "#0C40C6",
+            "geometry_config": {},
+            "id": 6539238,
+            "hotkey": ""
+        },
+        {
+            "title": "apple",
+            "shape": "bitmap",
+            "color": "#8EC7FE",
+            "geometry_config": {},
+            "id": 6539246,
+            "hotkey": ""
+        },
+        {
+            "title": "apricot",
+            "shape": "bitmap",
+            "color": "#0080FF",
+            "geometry_config": {},
+            "id": 6539248,
+            "hotkey": ""
+        },
+        {
+            "title": "asparagus",
+            "shape": "bitmap",
+            "color": "#6AF6C1",
+            "geometry_config": {},
+            "id": 6539306,
+            "hotkey": ""
+        },
+        {
+            "title": "avocado",
+            "shape": "bitmap",
+            "color": "#114BFF",
+            "geometry_config": {},
+            "id": 6539249,
+            "hotkey": ""
+        },
+        {
+            "title": "bamboo shoots",
+            "shape": "bitmap",
+            "color": "#F77ED1",
+            "geometry_config": {},
+            "id": 6539307,
+            "hotkey": ""
+        },
+        {
+            "title": "banana",
+            "shape": "bitmap",
+            "color": "#98976D",
+            "geometry_config": {},
+            "id": 6539250,
+            "hotkey": ""
+        },
+        {
+            "title": "bean sprouts",
+            "shape": "bitmap",
+            "color": "#C87833",
+            "geometry_config": {},
+            "id": 6539313,
+            "hotkey": ""
+        },
+        {
+            "title": "biscuit",
+            "shape": "bitmap",
+            "color": "#C2FC98",
+            "geometry_config": {},
+            "id": 6539226,
+            "hotkey": ""
+        },
+        {
+            "title": "blueberry",
+            "shape": "bitmap",
+            "color": "#A2696D",
+            "geometry_config": {},
+            "id": 6539253,
+            "hotkey": ""
+        },
+        {
+            "title": "bread",
+            "shape": "bitmap",
+            "color": "#07F3BF",
+            "geometry_config": {},
+            "id": 6539279,
+            "hotkey": ""
+        },
+        {
+            "title": "broccoli",
+            "shape": "bitmap",
+            "color": "#A808C2",
+            "geometry_config": {},
+            "id": 6539308,
+            "hotkey": ""
+        },
+        {
+            "title": "cabbage",
+            "shape": "bitmap",
+            "color": "#B1AC2F",
+            "geometry_config": {},
+            "id": 6539312,
+            "hotkey": ""
+        },
+        {
+            "title": "cake",
+            "shape": "bitmap",
+            "color": "#3E320A",
+            "geometry_config": {},
+            "id": 6539231,
+            "hotkey": ""
+        },
+        {
+            "title": "candy",
+            "shape": "bitmap",
+            "color": "#74B5BB",
+            "geometry_config": {},
+            "id": 6539222,
+            "hotkey": ""
+        },
+        {
+            "title": "carrot",
+            "shape": "bitmap",
+            "color": "#C5F703",
+            "geometry_config": {},
+            "id": 6539305,
+            "hotkey": ""
+        },
+        {
+            "title": "cashew",
+            "shape": "bitmap",
+            "color": "#F69D39",
+            "geometry_config": {},
+            "id": 6539240,
+            "hotkey": ""
+        },
+        {
+            "title": "cauliflower",
+            "shape": "bitmap",
+            "color": "#49FCF7",
+            "geometry_config": {},
+            "id": 6539293,
+            "hotkey": ""
+        },
+        {
+            "title": "celery stick",
+            "shape": "bitmap",
+            "color": "#3F63E4",
+            "geometry_config": {},
+            "id": 6539309,
+            "hotkey": ""
+        },
+        {
+            "title": "cheese butter",
+            "shape": "bitmap",
+            "color": "#97EE68",
+            "geometry_config": {},
+            "id": 6539230,
+            "hotkey": ""
+        },
+        {
+            "title": "cherry",
+            "shape": "bitmap",
+            "color": "#9254B2",
+            "geometry_config": {},
+            "id": 6539252,
+            "hotkey": ""
+        },
+        {
+            "title": "chicken duck",
+            "shape": "bitmap",
+            "color": "#EEBE00",
+            "geometry_config": {},
+            "id": 6539269,
+            "hotkey": ""
+        },
+        {
+            "title": "chocolate",
+            "shape": "bitmap",
+            "color": "#1FC2C0",
+            "geometry_config": {},
+            "id": 6539225,
+            "hotkey": ""
+        },
+        {
+            "title": "cilantro mint",
+            "shape": "bitmap",
+            "color": "#0000FF",
+            "geometry_config": {},
+            "id": 6539310,
+            "hotkey": ""
+        },
+        {
+            "title": "coffee",
+            "shape": "bitmap",
+            "color": "#5E43CE",
+            "geometry_config": {},
+            "id": 6539234,
+            "hotkey": ""
+        },
+        {
+            "title": "corn",
+            "shape": "bitmap",
+            "color": "#7D2D01",
+            "geometry_config": {},
+            "id": 6539280,
+            "hotkey": ""
+        },
+        {
+            "title": "crab",
+            "shape": "bitmap",
+            "color": "#5FA504",
+            "geometry_config": {},
+            "id": 6539274,
+            "hotkey": ""
+        },
+        {
+            "title": "cucumber",
+            "shape": "bitmap",
+            "color": "#3AC9FD",
+            "geometry_config": {},
+            "id": 6539303,
+            "hotkey": ""
+        },
+        {
+            "title": "date",
+            "shape": "bitmap",
+            "color": "#FD0740",
+            "geometry_config": {},
+            "id": 6539247,
+            "hotkey": ""
+        },
+        {
+            "title": "dried cranberries",
+            "shape": "bitmap",
+            "color": "#090F3F",
+            "geometry_config": {},
+            "id": 6539241,
+            "hotkey": ""
+        },
+        {
+            "title": "egg",
+            "shape": "bitmap",
+            "color": "#0BBD7C",
+            "geometry_config": {},
+            "id": 6539245,
+            "hotkey": ""
+        },
+        {
+            "title": "eggplant",
+            "shape": "bitmap",
+            "color": "#F86F6F",
+            "geometry_config": {},
+            "id": 6539290,
+            "hotkey": ""
+        },
+        {
+            "title": "egg tart",
+            "shape": "bitmap",
+            "color": "#01E63B",
+            "geometry_config": {},
+            "id": 6539223,
+            "hotkey": ""
+        },
+        {
+            "title": "enoki mushroom",
+            "shape": "bitmap",
+            "color": "#D10308",
+            "geometry_config": {},
+            "id": 6539320,
+            "hotkey": ""
+        },
+        {
+            "title": "fig",
+            "shape": "bitmap",
+            "color": "#A0D6B7",
+            "geometry_config": {},
+            "id": 6539260,
+            "hotkey": ""
+        },
+        {
+            "title": "fish",
+            "shape": "bitmap",
+            "color": "#FCA8BB",
+            "geometry_config": {},
+            "id": 6539275,
+            "hotkey": ""
+        },
+        {
+            "title": "french beans",
+            "shape": "bitmap",
+            "color": "#027F7A",
+            "geometry_config": {},
+            "id": 6539317,
+            "hotkey": ""
+        },
+        {
+            "title": "french fries",
+            "shape": "bitmap",
+            "color": "#2E04BF",
+            "geometry_config": {},
+            "id": 6539224,
+            "hotkey": ""
+        },
+        {
+            "title": "fried meat",
+            "shape": "bitmap",
+            "color": "#00FF80",
+            "geometry_config": {},
+            "id": 6539271,
+            "hotkey": ""
+        },
+        {
+            "title": "garlic",
+            "shape": "bitmap",
+            "color": "#6C2299",
+            "geometry_config": {},
+            "id": 6539292,
+            "hotkey": ""
+        },
+        {
+            "title": "ginger",
+            "shape": "bitmap",
+            "color": "#094632",
+            "geometry_config": {},
+            "id": 6539299,
+            "hotkey": ""
+        },
+        {
+            "title": "grape",
+            "shape": "bitmap",
+            "color": "#B095FD",
+            "geometry_config": {},
+            "id": 6539262,
+            "hotkey": ""
+        },
+        {
+            "title": "green beans",
+            "shape": "bitmap",
+            "color": "#6C9445",
+            "geometry_config": {},
+            "id": 6539316,
+            "hotkey": ""
+        },
+        {
+            "title": "hamburg",
+            "shape": "bitmap",
+            "color": "#515B57",
+            "geometry_config": {},
+            "id": 6539281,
+            "hotkey": ""
+        },
+        {
+            "title": "hanamaki baozi",
+            "shape": "bitmap",
+            "color": "#6B05C8",
+            "geometry_config": {},
+            "id": 6539283,
+            "hotkey": ""
+        },
+        {
+            "title": "ice cream",
+            "shape": "bitmap",
+            "color": "#863660",
+            "geometry_config": {},
+            "id": 6539229,
+            "hotkey": ""
+        },
+        {
+            "title": "juice",
+            "shape": "bitmap",
+            "color": "#CBE83F",
+            "geometry_config": {},
+            "id": 6539235,
+            "hotkey": ""
+        },
+        {
+            "title": "kelp",
+            "shape": "bitmap",
+            "color": "#2CA0E7",
+            "geometry_config": {},
+            "id": 6539295,
+            "hotkey": ""
+        },
+        {
+            "title": "king oyster mushroom",
+            "shape": "bitmap",
+            "color": "#D44952",
+            "geometry_config": {},
+            "id": 6539318,
+            "hotkey": ""
+        },
+        {
+            "title": "kiwi",
+            "shape": "bitmap",
+            "color": "#6997E8",
+            "geometry_config": {},
+            "id": 6539263,
+            "hotkey": ""
+        },
+        {
+            "title": "lamb",
+            "shape": "bitmap",
+            "color": "#F8EDBD",
+            "geometry_config": {},
+            "id": 6539272,
+            "hotkey": ""
+        },
+        {
+            "title": "lemon",
+            "shape": "bitmap",
+            "color": "#54F35B",
+            "geometry_config": {},
+            "id": 6539258,
+            "hotkey": ""
+        },
+        {
+            "title": "lettuce",
+            "shape": "bitmap",
+            "color": "#3CE49B",
+            "geometry_config": {},
+            "id": 6539301,
+            "hotkey": ""
+        },
+        {
+            "title": "mango",
+            "shape": "bitmap",
+            "color": "#B2046C",
+            "geometry_config": {},
+            "id": 6539255,
+            "hotkey": ""
+        },
+        {
+            "title": "melon",
+            "shape": "bitmap",
+            "color": "#FFFF80",
+            "geometry_config": {},
+            "id": 6539264,
+            "hotkey": ""
+        },
+        {
+            "title": "milk",
+            "shape": "bitmap",
+            "color": "#6F1330",
+            "geometry_config": {},
+            "id": 6539236,
+            "hotkey": ""
+        },
+        {
+            "title": "milkshake",
+            "shape": "bitmap",
+            "color": "#441060",
+            "geometry_config": {},
+            "id": 6539233,
+            "hotkey": ""
+        },
+        {
+            "title": "noodles",
+            "shape": "bitmap",
+            "color": "#FE3B1D",
+            "geometry_config": {},
+            "id": 6539286,
+            "hotkey": ""
+        },
+        {
+            "title": "okra",
+            "shape": "bitmap",
+            "color": "#89F514",
+            "geometry_config": {},
+            "id": 6539300,
+            "hotkey": ""
+        },
+        {
+            "title": "olives",
+            "shape": "bitmap",
+            "color": "#01833D",
+            "geometry_config": {},
+            "id": 6539256,
+            "hotkey": ""
+        },
+        {
+            "title": "onion",
+            "shape": "bitmap",
+            "color": "#00FFFF",
+            "geometry_config": {},
+            "id": 6539314,
+            "hotkey": ""
+        },
+        {
+            "title": "orange",
+            "shape": "bitmap",
+            "color": "#5A7DA3",
+            "geometry_config": {},
+            "id": 6539265,
+            "hotkey": ""
+        },
+        {
+            "title": "other ingredients",
+            "shape": "bitmap",
+            "color": "#432CF9",
+            "geometry_config": {},
+            "id": 6539324,
+            "hotkey": ""
+        },
+        {
+            "title": "oyster mushroom",
+            "shape": "bitmap",
+            "color": "#A82228",
+            "geometry_config": {},
+            "id": 6539321,
+            "hotkey": ""
+        },
+        {
+            "title": "pasta",
+            "shape": "bitmap",
+            "color": "#2AB631",
+            "geometry_config": {},
+            "id": 6539285,
+            "hotkey": ""
+        },
+        {
+            "title": "peach",
+            "shape": "bitmap",
+            "color": "#CC69F4",
+            "geometry_config": {},
+            "id": 6539257,
+            "hotkey": ""
+        },
+        {
+            "title": "peanut",
+            "shape": "bitmap",
+            "color": "#B82F91",
+            "geometry_config": {},
+            "id": 6539244,
+            "hotkey": ""
+        },
+        {
+            "title": "pear",
+            "shape": "bitmap",
+            "color": "#FE53BD",
+            "geometry_config": {},
+            "id": 6539259,
+            "hotkey": ""
+        },
+        {
+            "title": "pepper",
+            "shape": "bitmap",
+            "color": "#C1CC7C",
+            "geometry_config": {},
+            "id": 6539315,
+            "hotkey": ""
+        },
+        {
+            "title": "pie",
+            "shape": "bitmap",
+            "color": "#FBC071",
+            "geometry_config": {},
+            "id": 6539288,
+            "hotkey": ""
+        },
+        {
+            "title": "pineapple",
+            "shape": "bitmap",
+            "color": "#99C703",
+            "geometry_config": {},
+            "id": 6539261,
+            "hotkey": ""
+        },
+        {
+            "title": "pizza",
+            "shape": "bitmap",
+            "color": "#E5C6E2",
+            "geometry_config": {},
+            "id": 6539282,
+            "hotkey": ""
+        },
+        {
+            "title": "popcorn",
+            "shape": "bitmap",
+            "color": "#00FF00",
+            "geometry_config": {},
+            "id": 6539227,
+            "hotkey": ""
+        },
+        {
+            "title": "pork",
+            "shape": "bitmap",
+            "color": "#B54D0B",
+            "geometry_config": {},
+            "id": 6539268,
+            "hotkey": ""
+        },
+        {
+            "title": "potato",
+            "shape": "bitmap",
+            "color": "#865DFE",
+            "geometry_config": {},
+            "id": 6539291,
+            "hotkey": ""
+        },
+        {
+            "title": "pudding",
+            "shape": "bitmap",
+            "color": "#EE08B4",
+            "geometry_config": {},
+            "id": 6539228,
+            "hotkey": ""
+        },
+        {
+            "title": "pumpkin",
+            "shape": "bitmap",
+            "color": "#C409F6",
+            "geometry_config": {},
+            "id": 6539302,
+            "hotkey": ""
+        },
+        {
+            "title": "rape",
+            "shape": "bitmap",
+            "color": "#01C004",
+            "geometry_config": {},
+            "id": 6539298,
+            "hotkey": ""
+        },
+        {
+            "title": "raspberry",
+            "shape": "bitmap",
+            "color": "#173B7D",
+            "geometry_config": {},
+            "id": 6539254,
+            "hotkey": ""
+        },
+        {
+            "title": "red beans",
+            "shape": "bitmap",
+            "color": "#FF00FF",
+            "geometry_config": {},
+            "id": 6539239,
+            "hotkey": ""
+        },
+        {
+            "title": "rice",
+            "shape": "bitmap",
+            "color": "#988B04",
+            "geometry_config": {},
+            "id": 6539287,
+            "hotkey": ""
+        },
+        {
+            "title": "salad",
+            "shape": "bitmap",
+            "color": "#000080",
+            "geometry_config": {},
+            "id": 6539323,
+            "hotkey": ""
+        },
+        {
+            "title": "sauce",
+            "shape": "bitmap",
+            "color": "#FF8000",
+            "geometry_config": {},
+            "id": 6539273,
+            "hotkey": ""
+        },
+        {
+            "title": "sausage",
+            "shape": "bitmap",
+            "color": "#CC38D4",
+            "geometry_config": {},
+            "id": 6539270,
+            "hotkey": ""
+        },
+        {
+            "title": "seaweed",
+            "shape": "bitmap",
+            "color": "#D2579E",
+            "geometry_config": {},
+            "id": 6539296,
+            "hotkey": ""
+        },
+        {
+            "title": "shellfish",
+            "shape": "bitmap",
+            "color": "#B8FCF9",
+            "geometry_config": {},
+            "id": 6539276,
+            "hotkey": ""
+        },
+        {
+            "title": "shiitake",
+            "shape": "bitmap",
+            "color": "#FFFF00",
+            "geometry_config": {},
+            "id": 6539319,
+            "hotkey": ""
+        },
+        {
+            "title": "shrimp",
+            "shape": "bitmap",
+            "color": "#B194B1",
+            "geometry_config": {},
+            "id": 6539277,
+            "hotkey": ""
+        },
+        {
+            "title": "snow peas",
+            "shape": "bitmap",
+            "color": "#80BF80",
+            "geometry_config": {},
+            "id": 6539311,
+            "hotkey": ""
+        },
+        {
+            "title": "soup",
+            "shape": "bitmap",
+            "color": "#40E402",
+            "geometry_config": {},
+            "id": 6539278,
+            "hotkey": ""
+        },
+        {
+            "title": "soy",
+            "shape": "bitmap",
+            "color": "#73CA37",
+            "geometry_config": {},
+            "id": 6539242,
+            "hotkey": ""
+        },
+        {
+            "title": "spring onion",
+            "shape": "bitmap",
+            "color": "#47A577",
+            "geometry_config": {},
+            "id": 6539297,
+            "hotkey": ""
+        },
+        {
+            "title": "steak",
+            "shape": "bitmap",
+            "color": "#404FA2",
+            "geometry_config": {},
+            "id": 6539267,
+            "hotkey": ""
+        },
+        {
+            "title": "strawberry",
+            "shape": "bitmap",
+            "color": "#FE2C7C",
+            "geometry_config": {},
+            "id": 6539251,
+            "hotkey": ""
+        },
+        {
+            "title": "tea",
+            "shape": "bitmap",
+            "color": "#008000",
+            "geometry_config": {},
+            "id": 6539237,
+            "hotkey": ""
+        },
+        {
+            "title": "tofu",
+            "shape": "bitmap",
+            "color": "#9130EA",
+            "geometry_config": {},
+            "id": 6539289,
+            "hotkey": ""
+        },
+        {
+            "title": "tomato",
+            "shape": "bitmap",
+            "color": "#800000",
+            "geometry_config": {},
+            "id": 6539294,
+            "hotkey": ""
+        },
+        {
+            "title": "walnut",
+            "shape": "bitmap",
+            "color": "#616B0B",
+            "geometry_config": {},
+            "id": 6539243,
+            "hotkey": ""
+        },
+        {
+            "title": "watermelon",
+            "shape": "bitmap",
+            "color": "#8000FF",
+            "geometry_config": {},
+            "id": 6539266,
+            "hotkey": ""
+        },
+        {
+            "title": "white button mushroom",
+            "shape": "bitmap",
+            "color": "#0B89BD",
+            "geometry_config": {},
+            "id": 6539322,
+            "hotkey": ""
+        },
+        {
+            "title": "white radish",
+            "shape": "bitmap",
+            "color": "#F94AFB",
+            "geometry_config": {},
+            "id": 6539304,
+            "hotkey": ""
+        },
+        {
+            "title": "wine",
+            "shape": "bitmap",
+            "color": "#D29974",
+            "geometry_config": {},
+            "id": 6539232,
+            "hotkey": ""
+        },
+        {
+            "title": "wonton dumplings",
+            "shape": "bitmap",
+            "color": "#916532",
+            "geometry_config": {},
+            "id": 6539284,
+            "hotkey": ""
+        }
+    ],
+    "tags": [
+        {
+            "name": "beverage",
+            "value_type": "none",
+            "color": "#460F8A",
+            "id": 31483,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "dessert",
+            "value_type": "none",
+            "color": "#2C8A0F",
+            "id": 31480,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "egg",
+            "value_type": "none",
+            "color": "#0F8A61",
+            "id": 31486,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "fruit",
+            "value_type": "none",
+            "color": "#8A400F",
+            "id": 31478,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "fungus",
+            "value_type": "none",
+            "color": "#700F8A",
+            "id": 31484,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "main",
+            "value_type": "none",
+            "color": "#7D0F8A",
+            "id": 31479,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "meat",
+            "value_type": "none",
+            "color": "#8A0F1C",
+            "id": 31482,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "nut",
+            "value_type": "none",
+            "color": "#8A4A0F",
+            "id": 31481,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "other ingredients",
+            "value_type": "none",
+            "color": "#510F8A",
+            "id": 31491,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "salad",
+            "value_type": "none",
+            "color": "#0F8A12",
+            "id": 31490,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "sauce",
+            "value_type": "none",
+            "color": "#0F8A79",
+            "id": 31487,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "seafood",
+            "value_type": "none",
+            "color": "#168A0F",
+            "id": 31485,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "soup",
+            "value_type": "none",
+            "color": "#0F8A86",
+            "id": 31488,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "tofu",
+            "value_type": "none",
+            "color": "#5C0F8A",
+            "id": 31489,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "vegetable",
+            "value_type": "none",
+            "color": "#6D0F8A",
+            "id": 31477,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        }
+    ],
+    "projectType": "images",
+    "projectSettings": {
+        "multiView": {
+            "enabled": false,
+            "tagName": null,
+            "tagId": null,
+            "isSynced": false
+        }
+    }
+}

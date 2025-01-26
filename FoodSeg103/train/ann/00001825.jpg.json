@@ -1,0 +1,68 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 355,
+        "width": 512
+    },
+    "objects": [
+        {
+            "id": 150548903,
+            "classId": 6539279,
+            "objectId": null,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2024-03-04T15:22:23.631Z",
+            "updatedAt": "2024-03-04T15:22:23.631Z",
+            "tags": [
+                {
+                    "id": 108083981,
+                    "tagId": 31479,
+                    "name": "main",
+                    "value": null,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2024-03-04T15:22:23.631Z",
+                    "updatedAt": "2024-03-04T15:22:23.631Z"
+                }
+            ],
+            "classTitle": "bread",
+            "bitmap": {
+                "data": "eJwB7QIS/YlQTkcNChoKAAAADUlIRFIAAAHBAAAAewEDAAAANlOpDAAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAKVSURBVHicxdlBlqMgEAZgHBcs2c6Oa/SOo+lN+ioexSO4dOELrUZA8C8p601PauULfAaKIpJEKUF8SdAWzSyVViy9VGq/CGUnla2XSuO9l0m3yl4C9Qr9IIDNBv0okJ1U7mP1fnrq3kNd43ER6SBZC/rndG0fSd2n6wD9iyWHeNlGySoiM6abJNmT/VOctrFNcqBBDBezYfwz2YVeZ8gpoib2c2c51aWO65dJRhHpuArdWTJKQcdV8DI5pmrnFlHcVrlkFFEbMtIK5StfTk75hbfKF+WJHHLIKL9ieh+V4y/K5p/L6QOSsUE7sbRiacSSWFDOk0Uu8UR/V+IUcZ6Dcqk/IInKZUiicjnSUrKtSZxclR9bYOAUrcoMovfkSDzPVdqxIiHcpJvuIbFBV9nJpKp/4yFlI5btB6QWSyOW9n/L13aErEjy04SUYfeZp7IJhyX7UP614eDioFy2zyck9RxlB+VMSbe44/hBfGhOlOyW7pA4tVsjIX04fuAEvY/n6IF2TIWc5r6xkWySxPC1t4CHy15xS7y6xkJJHe57dzTx6OGSpMNyoqQJWaAS1L9lf5E2SKIOFkVJF25M18Euh4t8j3Eg60DVJZ7mTMs4Jnqse9tYwib0gHUwpttfSv6QE0xQHKEHhRvWAlTQqeA8KL8wyLGU2ei2F3pCzoXMU3mecyn99w3cZTlRmNKpnFM5b0KC7c+TV3fI5V7ipwBDEmd21JaXDnUIRo25JKBCrZoDq7KvyLz9JAcSKtQhSdphae6XI5MjktMtVKiTqU3xJPP6MjfrX5Xs7+75OxjWz8kOLKjpcd88bHXFqTBoWVihUYpY0XLKBUYjlseCsn6zLsKIpeJUNw4rS63asyv9M8qJ/qP5ARv/+jolOfpVAAAAAElFTkSuQmCCKkllZw==",
+                "origin": [
+                    42,
+                    217
+                ]
+            }
+        },
+        {
+            "id": 150548904,
+            "classId": 6539294,
+            "objectId": null,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2024-03-04T15:22:23.631Z",
+            "updatedAt": "2024-03-04T15:22:23.631Z",
+            "tags": [
+                {
+                    "id": 108083982,
+                    "tagId": 31477,
+                    "name": "vegetable",
+                    "value": null,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2024-03-04T15:22:23.631Z",
+                    "updatedAt": "2024-03-04T15:22:23.631Z"
+                }
+            ],
+            "classTitle": "tomato",
+            "bitmap": {
+                "data": "eJwBFwPo/IlQTkcNChoKAAAADUlIRFIAAAE5AAAArAEDAAAAOvNJ9gAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAK/SURBVHic7ZkxrtswDIYlaNCojt10k+pKHTsUkIEeoFfyUXwEP3TJ8FDVCSVHpESTe80t8WeSP6nEZGLMabvRmf+rBcuqA2N56MBcyhcVWIrOpTtAlZxwgEUDxie4KsD8BDcF+OTKLnPuBX7K4EuLRjaAZVGG1sj2WjUQXNXEqJNtXjXXHV6vdHh0R3l0TdqVYNiUoFuVoFm04G233Xbbbbf9L+a0Y6pRzS1PS9rpIWhdOt2sCOiqA20b7X5IZB3E1m8SmGFI3pMEJogtD5cRxsosyg9QoSxW1MP8mcUR76j5p11aqtdg+f3SJMSu60YSJ38HI20UR+AOvJbjwVUU95gKBnGg9zDIB3Gg9yA3iOuJh5CwdihAL24dAdYXeesIENGLO1SAFaJuPGrwIskIASt4ETvBYbBFcplBawN5l0UJ2nZgJdC1vCrIHl7f9ko1mAHc7TYHQ2vHCe5zMLYlMAG4WSZ4akIb6Jii5wbGKuYAP2bkKTSUt03StOfbvgPHqsdfrTEIHI/lqyYAuh5cJoGbSNuDVE3ob+9BumCnPqErEGWeEYk4j25OCERyIipaRGAvp+p8TMGNBwMCHyO4o4xnsh0OglqD1JBvEQKuLGgxuA3gGQOD+xus2Zs52MkORB4Gu8MbyZ2Zk53J68QlSVOJTGxHyxUwWND7/efNE7AllYhD2pqz5Ik4pK05XeZChwNSn6Yb12ZSnxavDJ81Up962Zbhe5jWB2K7IcWhPm8QpzjUB0A//jA31OdRwZWAZgpaSk3qwz6/aX3Yh+0gmxsyBtnsM3QAuSSz1uOghhEzdnthwEENww1NvBxFeuOn3oTBnQWJ7I0FSRNXFiSyWe76QYcs67QQNXyKh5o/usjGfrxLeb1kfD/CRzmyMV9N649iAQZwkcEoZwgWlA7b6iKbvW5zZ8o/Foz5yV75BxzilPmwGlIBAAAAAElFTkSuQmCCWtFjBQ==",
+                "origin": [
+                    92,
+                    91
+                ]
+            }
+        }
+    ]
+}

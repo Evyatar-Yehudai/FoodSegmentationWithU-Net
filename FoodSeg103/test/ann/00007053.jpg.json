@@ -1,0 +1,39 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 385,
+        "width": 512
+    },
+    "objects": [
+        {
+            "id": 150566088,
+            "classId": 6539308,
+            "objectId": null,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2024-03-04T15:28:43.590Z",
+            "updatedAt": "2024-03-04T15:28:43.590Z",
+            "tags": [
+                {
+                    "id": 108107913,
+                    "tagId": 31477,
+                    "name": "vegetable",
+                    "value": null,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2024-03-04T15:28:43.590Z",
+                    "updatedAt": "2024-03-04T15:28:43.590Z"
+                }
+            ],
+            "classTitle": "broccoli",
+            "bitmap": {
+                "data": "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",
+                "origin": [
+                    0,
+                    0
+                ]
+            }
+        }
+    ]
+}

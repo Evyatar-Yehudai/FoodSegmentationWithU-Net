@@ -1,0 +1,68 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 256,
+        "width": 256
+    },
+    "objects": [
+        {
+            "id": 150529271,
+            "classId": 6539305,
+            "objectId": null,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2024-03-04T15:15:10.609Z",
+            "updatedAt": "2024-03-04T15:15:10.609Z",
+            "tags": [
+                {
+                    "id": 108054298,
+                    "tagId": 31477,
+                    "name": "vegetable",
+                    "value": null,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2024-03-04T15:15:10.608Z",
+                    "updatedAt": "2024-03-04T15:15:10.608Z"
+                }
+            ],
+            "classTitle": "carrot",
+            "bitmap": {
+                "data": "eJwBWAGn/olQTkcNChoKAAAADUlIRFIAAACfAAAAWAEDAAAA0Ti3rwAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAEASURBVHic7dTBDYMwDAVQIypxZISMktHS0TJKRsixhwg3hhac+LcSqtpTLdHDg4DjH5WYiJgTNcWRRouZJq539sqChVyDZX0f+WZ5WDEG5qwwCuaKN4VZsHCDvghyhwvAwBCjRelvw6wxWwx12YZqR37HqLFYdDteD5x5eYdJY7EtTTsWjc+WGGJU+Nym+tJ8Cr3FVK8eb1c5SG33s9w3KHPwHU7bi1u8yM/YT2QtiK4b6GMCAAeENX6Ac5vxViNCajN+lNcZHU0tFgd9aI+mMkCXAP7rqIQQzHz9s0IIomCUJDoyxGj9KSxfQLv9z9FO5GfoEU4vkosWHUizPmrkDktKm2EmEiF7AAAAAElFTkSuQmCCGIqNQQ==",
+                "origin": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "id": 150529272,
+            "classId": 6539308,
+            "objectId": null,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2024-03-04T15:15:10.609Z",
+            "updatedAt": "2024-03-04T15:15:10.609Z",
+            "tags": [
+                {
+                    "id": 108054299,
+                    "tagId": 31477,
+                    "name": "vegetable",
+                    "value": null,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2024-03-04T15:15:10.609Z",
+                    "updatedAt": "2024-03-04T15:15:10.609Z"
+                }
+            ],
+            "classTitle": "broccoli",
+            "bitmap": {
+                "data": "eJwBmgFl/olQTkcNChoKAAAADUlIRFIAAACNAAAAXwEDAAAA72bWwgAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAFCSURBVHicjdQxsoQgDADQOBZbegQO8guOJkfjKHS/paRgzIJESYirsjPOzlMgiUEARAQweIwMALZeO5X7sGCqzmnGMBKgFxNdXczV2YKWcvlImkGQhzbuyb0iEh7EBR0TWfTHjvaWAtHaKf4mo4kFkYhmTXBBVlNfP74krylqymOsEfCC/EAJaFNBWRPqtVplexABKM9OrtAmaS+U47TtFHm9GmVOuVWYvzUiz2qf2v8E00gbazkidD0fWguDUcTGe0rlN1CwYWVUcvz3RkwuNAGMBM+Eqp9vyHJyv8g8kDouL2kbu/KO2FeCmvKJ6KDNr2hiFDtlSbXSaW0U4KzhQR7O8KNt5ODckojy2V9INDyGGn+mCsWTyhFfRjoSDZxmEQPLSlBrFiF7Z2yPZHuZOSVNQZPX5CT9qdXrY26kT4vqCw6aBi+07bRnAAAAAElFTkSuQmCCx0+sTA==",
+                "origin": [
+                    0,
+                    0
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 384,
+        "width": 512
+    },
+    "objects": [
+        {
+            "id": 150568526,
+            "classId": 6539269,
+            "objectId": null,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2024-03-04T15:29:24.363Z",
+            "updatedAt": "2024-03-04T15:29:24.363Z",
+            "tags": [
+                {
+                    "id": 108111456,
+                    "tagId": 31482,
+                    "name": "meat",
+                    "value": null,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2024-03-04T15:29:24.362Z",
+                    "updatedAt": "2024-03-04T15:29:24.362Z"
+                }
+            ],
+            "classTitle": "chicken duck",
+            "bitmap": {
+                "data": "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",
+                "origin": [
+                    0,
+                    54
+                ]
+            }
+        }
+    ]
+}

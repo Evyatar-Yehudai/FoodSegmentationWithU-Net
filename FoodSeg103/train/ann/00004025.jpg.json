@@ -1,0 +1,39 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 256,
+        "width": 256
+    },
+    "objects": [
+        {
+            "id": 150533475,
+            "classId": 6539267,
+            "objectId": null,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2024-03-04T15:16:59.227Z",
+            "updatedAt": "2024-03-04T15:16:59.227Z",
+            "tags": [
+                {
+                    "id": 108060644,
+                    "tagId": 31482,
+                    "name": "meat",
+                    "value": null,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2024-03-04T15:16:59.226Z",
+                    "updatedAt": "2024-03-04T15:16:59.226Z"
+                }
+            ],
+            "classTitle": "steak",
+            "bitmap": {
+                "data": "eJwBtQFK/olQTkcNChoKAAAADUlIRFIAAACUAAAA7AEDAAAAqIMdOwAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAFdSURBVHic7dhRjoMgEABQjMn66RE8Cjdb+NtrcRSOwCcfBlojRZgZdqehsSbb+XzRYcAZ0ypEGd8CR9SIhmiRjYRNyJRYooPJ7gFMbubhRfdYq+zYZLKAb41Rm4fN2Y4K5WE5ozosonRbxsfeizB1daUtpVm0bLZy2XQ01bLJqmXTcU2EzZWFplXlpQ1TJmvTLVNMq2k/LMIGYLZhI9MmYA4dS9sWpkmmKYbZJyy+wQx+HGcZfLxs030GW6jLiJbkWiDa1BOmsXn8NthfQ1xbanMnmG+ZfJ2tz5j62wLTYq8BCkxbX2zbGnBUKVs7ruOabxgcacc0yzRDjCplumEzw4ixjMR4UBaIduYat+2bBsrzHeY6zJ5g5uKmL27if1n4WPoH9rGrmD/BXLcthI1Mq38f2KYJrimmydKMwBvRAhWdP28UCfNHi+Jm/5vNlP1g+5qwFdUcNhB2VLjbDZbAXYNOhKSAAAAAAElFTkSuQmCC2uXDWw==",
+                "origin": [
+                    0,
+                    20
+                ]
+            }
+        }
+    ]
+}

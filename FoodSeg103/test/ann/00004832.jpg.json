@@ -1,0 +1,68 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 384,
+        "width": 512
+    },
+    "objects": [
+        {
+            "id": 150569498,
+            "classId": 6539291,
+            "objectId": null,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2024-03-04T15:29:43.955Z",
+            "updatedAt": "2024-03-04T15:29:43.955Z",
+            "tags": [
+                {
+                    "id": 108112692,
+                    "tagId": 31477,
+                    "name": "vegetable",
+                    "value": null,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2024-03-04T15:29:43.954Z",
+                    "updatedAt": "2024-03-04T15:29:43.954Z"
+                }
+            ],
+            "classTitle": "potato",
+            "bitmap": {
+                "data": "eJwBVgGp/olQTkcNChoKAAAADUlIRFIAAACNAAAAigEDAAAArZVbXgAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAD+SURBVHic3dQ7DsMgDAZgogwZs3brNTKVa3ULUi/GUTgC3RgiXKCvGFuqhchSxk8gfpuHUmkEVY8ZTE0r1NNGADxtURoqW29Z0FJ4DUMpUNpN+5BrJduN7pTChaSPTNmyTlhKTkReREyjNxFFETELmR2ZXEzZTHMYUv9GnxpPlJbvxXzrdU+2UNiTyzIg8pkmROXcZkTldM+ISlxNacWUgwGmFGz4TS5/LZhS1qmiwNJcUapIExqhopg/Lkwwlm0RaUrPvP3IisiISEkoHkuyEM1RN0qekj2WTEdSh1JspU1EQUS+IzkR2VYyrcS0kDsh5gLIrpxrJeZ1yChw9ADm5hf2bDKwTQAAAABJRU5ErkJggp24iCc=",
+                "origin": [
+                    0,
+                    246
+                ]
+            }
+        },
+        {
+            "id": 150569499,
+            "classId": 6539294,
+            "objectId": null,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2024-03-04T15:29:43.955Z",
+            "updatedAt": "2024-03-04T15:29:43.955Z",
+            "tags": [
+                {
+                    "id": 108112693,
+                    "tagId": 31477,
+                    "name": "vegetable",
+                    "value": null,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2024-03-04T15:29:43.955Z",
+                    "updatedAt": "2024-03-04T15:29:43.955Z"
+                }
+            ],
+            "classTitle": "tomato",
+            "bitmap": {
+                "data": "eJwBxwQ4+4lQTkcNChoKAAAADUlIRFIAAAGtAAAA3AEDAAAA+ZFspAAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAARvSURBVHic5dpBsqMsEABgUy5ccgSO4tHgaByFqrkAyywsmZgodDcN0uTN/PXXuPJFPgPdDcG8TFM+5jCNHCq6EabjNsJM3MdYHGExRitX84s5OVMv5uVsfbEgZy8Vn2J1DG0gcXqMmYPJ8x3fh1Q9vmJWyOYPc2PMC9nyYUHI1FdMWl0nk5aJ/jBpmXzHpGVyMStjaxwqky+ZlzHzHQt/lb2LcnW9LAKm+4vlYttnxv6yYqYFxXmx/ToNQrZIZl5mSjIXMhPNhcxE1WkSQ4nvZ3GIPUAGBWy+WFcoE1sSc7dIpbYxn/pug1gQqKjTWTuUa401Q/nAKua7NOfOUmXNDJA+RpNPbYPF+uHGmK8rGhF4hDqbG6yRuBZrJI7Gv5Opn2eNMtE/zxrVtf5VZlrM/jRrqcYU+BPM/x9YqDLzrzL/n7By6Vvv2dHEitm7BQ2OvmPn+ithLneHREe1mM2LPVn8Wot5hLd1iLU+OiIMGV7ZW59vR8dQj8HRYBu6K065aTIwBhwUXWdPHGgUFFUxHwZvilLXyEDALHRmwOOSRTFpZIAwnLk6czjOOJSmgt4JRhc7M2BJV1AG6qGkI0AZqMeEMpSB6rqwU4arUjWYgS/gDNQSvlFGZvggW3n2pJf+KAvFJcx0neFLXczfsEo5F6zcX3KFGWgpMJtgNcaY8T072FqyjXaeeZwYZKZkR+BQmYeSleqdphvGTnFLXvcFY+fcIHOk865g7PLlb5mqMYM73cPCLdMco9O7UDzbbtlaY+B+zOMcy/ZbZjgWMWPmDc8sCjHDWHXkFzBm3lTZMsD8GAtoCoRe9kRXvIStcobLxPWyoy6aX87xDC9CtptZeKlUtR2UhZf6mQMxyRMgJ77Cjpir8/ys5CP/PWzGLHayq7w+bXUvu66F3LCLwf/oPWI3g/92XDBbG+yT8C0PrY8ZOrTMdJVdpQyGlpmqsqsfNg8ts8o+2+dFwYFO3bN0IYCAJ1bZ+AK2pZgCVtnVezBocPO89N0zR8uzXiYeZMZzbL1lT2ZsVZZf33OrzDSnEAMfW5mpCjPwj6JKKolzkIWyJiuJczAxz3IGVBJn4ct5vwGYYRnqRAoBYCvHcN9tsShUMoCZK5agSgZwgP1EFzx+xu3lXlkTxiVuLzf0M2Fc4jbMtivicKthOKbwm58xgGwt2ZN5fnsQlleNJjtuD1kaXEjdDdyz6UK2UVdrl9p69iGTsKtJbsszhdmZuQ1+b6cYNpO93jWglHlLaseewcNsPd/ike/OMnKoz5ulKbvTkuNZyqS5RklKjmeT3mFvyeY13v4DdsmtJAz8tkjCPr3cwTD72HJGhMyLO/a4UiFj7769G2kRU/GsQCViaXYgZm+ZOtssMjadm9VZyCaGdauJfuT0HmaMrWMM5Fvy86tljFW/o785MhP9Is2MsXWM5WIW/dpuGWOPMTYNshTKIGJ6jKXBeRFLvbQypgdKckrVLP7l7tDQrl5aKZtHhjaV27rOQ48M7d3LAfWaq1j9BjV4E3aUGtdZAAAAAElFTkSuQmCCEfJEOg==",
+                "origin": [
+                    83,
+                    54
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 256,
+        "width": 256
+    },
+    "objects": [
+        {
+            "id": 150541554,
+            "classId": 6539308,
+            "objectId": null,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2024-03-04T15:19:35.767Z",
+            "updatedAt": "2024-03-04T15:19:35.767Z",
+            "tags": [
+                {
+                    "id": 108073049,
+                    "tagId": 31477,
+                    "name": "vegetable",
+                    "value": null,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2024-03-04T15:19:35.767Z",
+                    "updatedAt": "2024-03-04T15:19:35.767Z"
+                }
+            ],
+            "classTitle": "broccoli",
+            "bitmap": {
+                "data": "eJwBAgH9/olQTkcNChoKAAAADUlIRFIAAABHAAAAOwEDAAAAE54F5gAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAACqSURBVHicndKxDcQgDAVQIwrKjMAoubGuOAlGyyiMkJIiis/BfMPpUsXVC8gysU10RaYevkChQvGEVoYS5Bi33rSY0nQ7MqDA3AvHrsQS26/4X66pmq5Dzzi8U1AdsxbVOSveaH0qHsqmor8msZsO0daTpbO+69D8Sqm0N8p3IuijDZRq1bRro0Uv7c1pLcccWm4XJpx4twEPYROiNr8VzjY5LIKz5aA30Rc0pgYhAFa7iQAAAABJRU5ErkJggq6ZacA=",
+                "origin": [
+                    104,
+                    86
+                ]
+            }
+        }
+    ]
+}

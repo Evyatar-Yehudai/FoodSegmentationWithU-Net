@@ -1,0 +1,39 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 256,
+        "width": 256
+    },
+    "objects": [
+        {
+            "id": 150534237,
+            "classId": 6539294,
+            "objectId": null,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2024-03-04T15:17:12.824Z",
+            "updatedAt": "2024-03-04T15:17:12.824Z",
+            "tags": [
+                {
+                    "id": 108061857,
+                    "tagId": 31477,
+                    "name": "vegetable",
+                    "value": null,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2024-03-04T15:17:12.823Z",
+                    "updatedAt": "2024-03-04T15:17:12.823Z"
+                }
+            ],
+            "classTitle": "tomato",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJAtI+QGzPyAwkC97vYQdSbAE+Ia5A+v///0tvzr8LZDGWBPkFMzg8u5EG5Kz2dHEMqZhTe+kg72EFHtaAaJmiFBa3k0lTE0zcTnLIFHcUbAz8uWXTLOZKrm2fm52mXrt6QHyG+aIfIhP5TrHaHVsyhclsQ3OY4PG5z3pWtHq+O+nV3iutkhTL9rXxa22g9aeMiCuZ6ZsDdrlF5+i/CNuQtq1hvv7FJIMmHYuW3p0L+Hsslj6YFBu1qt5GKo5R7cMem7Tpm04EybbNParaVDq9/3iJ8lml8/MfT9dYytXHku/l3tGsc+BrCtDZDJ6ufi7rnBKaAB2WZwc=",
+                "origin": [
+                    156,
+                    13
+                ]
+            }
+        }
+    ]
+}

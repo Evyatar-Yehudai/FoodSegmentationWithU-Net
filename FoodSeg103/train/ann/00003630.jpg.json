@@ -1,0 +1,68 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 384,
+        "width": 512
+    },
+    "objects": [
+        {
+            "id": 150527625,
+            "classId": 6539273,
+            "objectId": null,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2024-03-04T15:14:37.880Z",
+            "updatedAt": "2024-03-04T15:14:37.880Z",
+            "tags": [
+                {
+                    "id": 108051674,
+                    "tagId": 31487,
+                    "name": "sauce",
+                    "value": null,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2024-03-04T15:14:37.879Z",
+                    "updatedAt": "2024-03-04T15:14:37.879Z"
+                }
+            ],
+            "classTitle": "sauce",
+            "bitmap": {
+                "data": "eJwBogNd/IlQTkcNChoKAAAADUlIRFIAAADEAAAAtwEDAAAAd95jRwAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAANKSURBVHicrdhNbtUwEABgp6mUDcIcoGo4BguEexSOwJJVnR3HIpyAK/gGeJlFlOHF9nhm7AxVK7xpku/FnvFfkhpTy53Ril00mYMCT35TBGC/hgngUNonuW/aR7H7oxRX5M4DLEJ8iWCERgZgsl7KLUaIXM6fbigi/ImLaMiinAcQZDr5/DwQDc1YhwO8uyYaa16ybz2UgxNEcD5S9LfCBPOesrCw8XjOspKUEfgFipS6RKq7lNjKqEoeCys6gSSed3Ziciqey/f8x6eOcReSr1ku31BCCrGXOWU/XIjN/feRwHzNf6Z+1qP0a2gtElsYUEIrbulqKT8FBW7BanIR7MuiLPj/LSPKfScY2ztVHlT5rMqXN8hzJ6BJHYWuZ+e6sltx5crQyidczJ14XLJjs1GaumSrPJHEdDDhvYFkk7KR5AGyKDtJ2UNKexMTKHkVOZgsOfwslsuaEi0xWr4PhpROkdqPcwm7bisOM55K2DOK53IYep6Q2BJCzbhuijbv0SNmPEiB1WPGYyO0U9tLWXIkgfLBsuad8VUSDBt9IdGw0Rey5QiKOCa7Kkeu40KAjwbKT0x1quJzPRbvGRrZRoyAtn/MEfO5hbBzWVN7IQ8yPVtS0xZK9w9CjnxQauHPsJjqL5PTHyTlVWMXMmHv32r5UHLvxBnsfZIUk3lfpEx5S4JvdxOTxfBSNqL5SpYqAm45J3G9GJJ2+8J124tfUdpNnqR9JmaBf0psxIWXJfwHmeMbJF3wV7KqsrxBjCaPqjyoYl4hgxA+CuNSL99LmUiepdiVGmmEQvGLmCHss8Wvg5BIEoQ4JlEKTTy3DXVpn6c0jd2uyjFy8bQofCP0au1hArZ+WK97+MFkYKsC4Ddukll2kj9Aq35k6xIAd8SzTGyVOyGWDa8tEuoZNoQv9TGd8Y0GZaO6Q40TqBN8uv1OyEGR7lZIqh1P+oQm9iv5kWL5PR4lmubrB+EMe+TBkBz1uBWoUeITALqyqRLlKLASVFlVMZrgyM1aaBcS3yDt3KGyqFKARg5Lnb2jKqYVtoQ1oGkls+mrWzQRTyiv3dK9IVGZtMpEQ1EKqy5IsUoA/KbuG/Tq07yhtjJTvrPd5XflGM//3/ArfwFcER+8WjIfqQAAAABJRU5ErkJggmJ4q5Q=",
+                "origin": [
+                    199,
+                    126
+                ]
+            }
+        },
+        {
+            "id": 150527626,
+            "classId": 6539291,
+            "objectId": null,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2024-03-04T15:14:37.881Z",
+            "updatedAt": "2024-03-04T15:14:37.881Z",
+            "tags": [
+                {
+                    "id": 108051675,
+                    "tagId": 31477,
+                    "name": "vegetable",
+                    "value": null,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2024-03-04T15:14:37.880Z",
+                    "updatedAt": "2024-03-04T15:14:37.880Z"
+                }
+            ],
+            "classTitle": "potato",
+            "bitmap": {
+                "data": "eJwBdQKK/YlQTkcNChoKAAAADUlIRFIAAACnAAAA2AEDAAAAtKxhuwAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAIdSURBVHiczdhBTsMwEAXQibzI0hwAKVfgBrkKx2CXQVzMO64RiQtkRwRRTO3YrSf+hpq2CO/yGk1+ZpxULVFYmok6S7vVMylrrZFqN50ENkGXxDr7Zlm3B00rD4dD7t+tKNy4Q3YfpYW9PntMCnt92fR0cmPTdawsdPyFyrrxcgpqC1XDulJNhS73SO0amy4XQzVQx4pzseKrYfX4qJFOO/X31kBVi+z6tlGU3emczyfqPsE2uL/VLNmttKYPK5raNqFc3Yz7TN0uGTIdK9TdRob2A+paocuNdK7TJteppOoyHUuabYeSGqgMFW0zPwqd6XIV7W6kfaZrhVq4qQvKaJMUFWySooLBFxUMs1L12WpA00s6Qp1Q0ws6o6YXFeAVdPkXOpytuJN4FnBur+iBdZsaKHxpWIIvrqKCJ4Dgswm/9CzBwgQLY3VfZHnf57IOe51qtYfanacjbMQ3ms2oRg2se7kyvBpWgkMmNM71G92Pc6nQuV4HqVOFjptqqOpVqCEC/YkqO8FBCesAtU81otyWR9VQ2wpVFdpAFTfHP+hQoT3UDqqGqqA2UNPAJzxG+xQaoz0LjSFYaOz74fd7ojEa92uiMRp3qcZorIWGEKYVGvpjlNAQzTTpPxAxGktVsTVzqhT1SegQGvYgtA16J3RLTPvls5m9+hRTdrLT5Ux12dZMO6gaqoKB3ZTmTN3dca4KFPDZkLZQKdT9AjDuqA6fePJqAAAAAElFTkSuQmCC1h0fkA==",
+                "origin": [
+                    79,
+                    64
+                ]
+            }
+        }
+    ]
+}

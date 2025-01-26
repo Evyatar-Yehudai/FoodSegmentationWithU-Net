@@ -1,0 +1,68 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 460,
+        "width": 512
+    },
+    "objects": [
+        {
+            "id": 150544878,
+            "classId": 6539273,
+            "objectId": null,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2024-03-04T15:20:53.913Z",
+            "updatedAt": "2024-03-04T15:20:53.913Z",
+            "tags": [
+                {
+                    "id": 108077847,
+                    "tagId": 31487,
+                    "name": "sauce",
+                    "value": null,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2024-03-04T15:20:53.913Z",
+                    "updatedAt": "2024-03-04T15:20:53.913Z"
+                }
+            ],
+            "classTitle": "sauce",
+            "bitmap": {
+                "data": "eJwByQE2/olQTkcNChoKAAAADUlIRFIAAACFAAAArwEDAAAA6SOPLwAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAFxSURBVHicxdZLjsMgDAZgoiy6zBE4CkeDo3EUjsAyiygetQH8wExopemw/KT+Nq5aY8x1FgiGHw+CNgDYmcDzULAvSQjLC+BEeVxCsm2RSEvzoBIDkGUMdlRj4JAxWB7aKbCiBBHcGtpQkijVGnIouyheG1pACileWnx0QoqXpm0njkrQxVOJfBZFFiZJlZVJFi1rsstLKHLIaylyquKYwIwETTyXOCHpzyTPCfyf7N8VfyfHd8W9L+enYidke19A/k51WSdk+Ujk1xw08RPiPhJ7J7EbmSqPCVknRAwoaWJmxE+ImxDLJHf/2brcbYOs7pBelhvZuw02Lf53yd3+HIj9XVK3vQfCBhR1YQMKurABGV3oOM6ReJRjJA5lH4lFySPZUFIn8ZL+RUYkXELGYUaC4zg7aW9GeQkiuYrvpF0+VWnXiFVa06FKLU9ex7KdViyjWFGqFQsoqwwu0QcVK4LLxyKVZ30W80rKQoy7av8A8RqecNcVLPgAAAAASUVORK5CYIIvKrs9",
+                "origin": [
+                    29,
+                    130
+                ]
+            }
+        },
+        {
+            "id": 150544879,
+            "classId": 6539279,
+            "objectId": null,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2024-03-04T15:20:53.914Z",
+            "updatedAt": "2024-03-04T15:20:53.914Z",
+            "tags": [
+                {
+                    "id": 108077848,
+                    "tagId": 31479,
+                    "name": "main",
+                    "value": null,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2024-03-04T15:20:53.914Z",
+                    "updatedAt": "2024-03-04T15:20:53.914Z"
+                }
+            ],
+            "classTitle": "bread",
+            "bitmap": {
+                "data": "eJwBMATP+4lQTkcNChoKAAAADUlIRFIAAAE7AAABqwEDAAAAhXSixwAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAPYSURBVHic7dpNTvMwEAbgIBYsfQQfxRdDsqXvYj5KjpBlF1XzAS3Unpl3PCQODbTZIR7Vfsc/+R0GdMQJ/qt283y0OD+/HYe2e5o/jnbr7gzn1IIX1/zJl0/YyhM/YaPt5y/XaNtf4cnYst520bLeti+h1nbZstb2U+Xm0dZFbWa81BB30tcQdzIQCDsZCUSdJKFxJ58pnAF8YRCkoaHnOdtCw9g0NJpALDSqDw8NVhgPDerDQ4P68NCgPjw0qI/gxPoI1ZHrI1RHro9UHXGiOQlKhfQiTCtgEGHmMFqh6IShEestQbHe0hiK9f4G5IPtZMgH2wy9DPmsMMMgQz59zDACmBZD4Pj0sUIweVZAMMv4hDRDMMu+Aael0K2GdC30h341pKurPwy3g3E1pFuFGSK3IwiXtR3OCyFc/xS6XcL0d6H/3TBvDMNfgvEXQOy2hspmVl993BAq++huILzg2h66HjBvC/3tYLgdjApM20LF7QVq638DWHZRW9YPqG49Znh6wJ+Fx0VQmxQPqMLDIqhtUv3h9NugdvoY9wIjhnkZDB3g+ID2OnoMU3c4GOHJCsmjPWeF+LRAIN7OlkL7o71ghR5B+mDY/DgcblMUwjQMOitEuUcGzW/OhuHVCsXmZSg0n2XIywkgn0YJQFZPCOn0wJBEx45E1+CTFZbR9S9EiugNeI3e/H4nWOFghpfo5g+CDPAsJwP8kNkC3ytvc4+jPKKtal5b7sXhmqvzfHwuqNbUv66SqQGjbX2WCzSrsNhw9LaLrUFdTtV5KykwlHC0tawuvHo/VmruKqh0MtQQd7J2uJP0lAErSc/+MI0nEKaJFGbZ8fPfaOsijM26iGIHBkFs5sBykC70xNhOgGJs3kWwbgQn1ke8epNiy9eDAvQiTBxGEQr1EZ0AwXX1yKCzQjmLUHE5C4foYpkNDbr8ZlMXZOEQZOGDHdZCNisigolA5CjEj0ayFY41xPdkBOLbwamGDsKDFZIx9FYYICRjGNdDMtjYLYTaUzAzTCXUHjsug9qTYzPMJXTdoVfguAiG7jAqcNoWKq5er7eD6qu64z6g+r7stA+ovqqb9wHdD8N0lzD/JTjeJZzuEh4WQL9XeLxLeLpLOD9gbxh+GqYvGG8HdXencOgNT93hsTs8dIfTFUYVjlaYrzCo8DrU+gZQ3s84DR6tsLzTVG9Tiuro91xFaPtnpuYvuHp8eUQexAVTFG1ozB9REAcLmSgE9REe7Rt/UIwtv0kpYx/cv9n0aubtzwjfRxVpMjLnI166j3+r6uRhcA13aTu12OUnR4N7/8nmi/n/6PqcsEM8OzkAAAAASUVORK5CYILrcPk9",
+                "origin": [
+                    149,
+                    13
+                ]
+            }
+        }
+    ]
+}

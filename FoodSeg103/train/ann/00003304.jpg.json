@@ -1,0 +1,68 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 341,
+        "width": 512
+    },
+    "objects": [
+        {
+            "id": 150540825,
+            "classId": 6539267,
+            "objectId": null,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2024-03-04T15:19:21.661Z",
+            "updatedAt": "2024-03-04T15:19:21.661Z",
+            "tags": [
+                {
+                    "id": 108071867,
+                    "tagId": 31482,
+                    "name": "meat",
+                    "value": null,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2024-03-04T15:19:21.661Z",
+                    "updatedAt": "2024-03-04T15:19:21.661Z"
+                }
+            ],
+            "classTitle": "steak",
+            "bitmap": {
+                "data": "eJwBEQLu/YlQTkcNChoKAAAADUlIRFIAAADIAAAAfAEDAAAAFs1tvgAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAG5SURBVHicnddBcoQgEAVQLBcuPYLXyM4cLBW8Qa7EUTyCyywoOiqoNP3/JBVWU/MK+DQOOM7V7duR1kcmQ2IyCpNJAhEvK4ZOBIYLbhBB4frtw4ugCHuHoy1WxiwgwpxlowLC+Swg3K/CR9vFs9GGtl+RtH9opKROnVlUERlMjEsmI5M8LVHRdVUSqSQqamtnJYutQWmhEgVPFQZp2h1uakXwJPVEBu4qWCkROiuRinBZqGxU8r72QOI/JFGRX/qYTZCrcEjIxuXlvEE5ivOJ5FyN/wIS8k5fp0TTZZfFyFYkGFnJc3NtG5DEnrXr1whkZc/ai6fDsb2JL+uMZaMSqDgsyUUi0b07nLpMD2qwPuJhsKONWpZHdOHqU0r3qQ/KmUX78yFFA9QHqJY6gK5OBbqi6nBXy1mp1KAOSnyHmMFUCRyT5hYjNdPimLSXrGeDVeKYmBv7XulKpYVb7PU/scHuXViYgLeMMtpGxQ52iYVSA/R25tk0RVYqIEAW+LbpWYAsaJosaJpT8Eutx+V8KTOLdsoGZWKhTwlQRrac87eNpcMbejRPSnBEYP8FRrKcYzgcYG89/voH2S6LyfGztU0AAAAASUVORK5CYIJoPumi",
+                "origin": [
+                    43,
+                    87
+                ]
+            }
+        },
+        {
+            "id": 150540826,
+            "classId": 6539269,
+            "objectId": null,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2024-03-04T15:19:21.661Z",
+            "updatedAt": "2024-03-04T15:19:21.661Z",
+            "tags": [
+                {
+                    "id": 108071868,
+                    "tagId": 31482,
+                    "name": "meat",
+                    "value": null,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2024-03-04T15:19:21.661Z",
+                    "updatedAt": "2024-03-04T15:19:21.661Z"
+                }
+            ],
+            "classTitle": "chicken duck",
+            "bitmap": {
+                "data": "eJwB9gIJ/YlQTkcNChoKAAAADUlIRFIAAAGPAAAAsgEDAAAAgMfRYwAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAKeSURBVHic3dpNspswEARgXnmRpY7AUXSxVImjcRQdgaUXLyhxjAFJ89ONK15Ea3+lUWsQNngYwPET/eA+YllIMZayciKVP2PipniMBQa38howCTuZUbILsLK0HHWVb0T8KNXgikJJasjEloWQsSWzS1pRMl2XvzFdXeVO1+WSvi53+/u6XNIL78IMAnH2UhL2XoqT2HspCjNlIWEvsigTI7KbLKzIRo3MmvjShB6ZOokeWVKJGpkq1MjUvIoaWTCIsv7IE0MoJ4a1FCUypSWfQ45stIh8lEeTzBJJJpEi03vy75AiM1cvNWa4jzbpUx5/2UJIOTlCIJ7oN8aJ6zGmhpj9JZPgk7kh0SeZDawjwOrbjgFW33bMyJMIkLrJnCZ+jpWepCGIqAlUV02gumoCiYpgdVUEq+tMkP5qCFjXmYB1nQha14mgdZ0IWteJoOIgcF0Hges6CCx2gpwTDRl5kmhC1PUieMQ7iTxJPCHERpjVbwds4EnkCSOeNwtqKc8bX6DITPZk2b5dUGS9GlhiSOYznqhz8jEudNidJwt9SW5frQJD6APpylV8YfWZX/10dfUMWfnA7jzJHyH83WgZ2FP/wr04v0iCyfQGgcXxk+qfkguF/U+ET+ybJevX3mLoub/sc8Bkfough+V7BD1fJ5ZUP1kDCzBSC+QYax/wRJ8sPMkNST4ZaNI9q3LJ3AqfdMK9woSnjvRKfNJuCkDaTQFIH9gVkj5CIk/GjxDvuBCId1oKxIlMfLAdTDJJxDxhldcaVmXiJGbMiyysmDViNHPWSFTJrBG9Mk3oDWC9OVSI9bJN2c7FIMp+ZpOIZrKJYNw/NPTrcV8b99O4ortwfNFWNgGkrmxGRFUZJs69ljFxmgYWw7YcBjzGzd3A342SMlFGaDSyAAAAAElFTkSuQmCCp4JVRw==",
+                "origin": [
+                    54,
+                    108
+                ]
+            }
+        }
+    ]
+}
